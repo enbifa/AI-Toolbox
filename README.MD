@@ -25,6 +25,7 @@ This format should be followed for all new tools suggested for the repository, s
 
 - 📣 [Audio Editing](audioediting.md)
 - ⌨️  [Copy Writing](copywriting.md)
+- 🤩 [Avatars](avatars.md)
 
 
 
