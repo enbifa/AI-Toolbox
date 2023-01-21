@@ -24,6 +24,8 @@ This format should be followed for all new tools suggested for the repository, s
 ## Table of Contents
 
 - 📣 [Audio Editing](audioediting.md)
+- ⌨️  [Copy Writing](copywriting.md)
+
 
 
 
