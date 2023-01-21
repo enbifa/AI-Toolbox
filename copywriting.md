@@ -18,3 +18,5 @@ Writesonic is an AI-powered writing tool that helps you create professional-qual
 Copy.ai is an AI-based copywriting tool that helps you create high-quality, persuasive copies in minutes. Whether you're a marketer, business owner, or anyone looking to improve their copywriting skills, Copy.ai can help you generate compelling copies that drive conversions.
 - **Link**: www.copy.ai
 - **Pricing**: Not specified
+
+[Back to Index](README.MD)
