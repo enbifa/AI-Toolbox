@@ -14,8 +14,8 @@ This repository collects a comprehensive list of Artificial Intelligence tools d
 ## Tool Format
 
 - **Name**: The name of the tool
-- **Link**: The official website link of the tool
 - **Description**: A brief description of the tool and its features
+- **Link**: The official website link of the tool
 - **Image**: An image relevant to the tool
 - **Pricing**: Whether the tool is free or paid and if paid, the pricing information
 
