@@ -1,4 +1,4 @@
-# Design Assistant
+# 🎨 Design Assistant
 
 This page lists a collection of Design Assistant tools.
 
