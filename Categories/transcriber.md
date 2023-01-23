@@ -65,4 +65,4 @@ This page lists a collection of Transcriber tools.
 - **Pricing**: -
 
 
-[Back to Index](././README.MD)
+[Back to Index](../README.MD)

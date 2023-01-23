@@ -55,4 +55,4 @@ This page lists a collection of Paraphraser tools.
 - **Pricing**: -
 
 
-[Back to Index](././README.MD)
+[Back to Index](../README.MD)

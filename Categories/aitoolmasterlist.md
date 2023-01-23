@@ -10,4 +10,4 @@ This page lists a collection of AI Tool Master List tools.
 - **Pricing**: -
 
 
-[Back to Index](././README.MD)
+[Back to Index](../README.MD)

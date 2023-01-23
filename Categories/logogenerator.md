@@ -30,4 +30,4 @@ This page lists a collection of Logo Generator tools.
 - **Pricing**: -
 
 
-[Back to Index](././README.MD)
+[Back to Index](../README.MD)

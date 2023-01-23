@@ -100,4 +100,4 @@ This page lists a collection of Life Assistant tools.
 - **Pricing**: -
 
 
-[Back to Index](././README.MD)
+[Back to Index](../README.MD)

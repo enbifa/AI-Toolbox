@@ -170,4 +170,4 @@ This page lists a collection of SEO tools.
 - **Pricing**: -
 
 
-[Back to Index](././README.MD)
+[Back to Index](../README.MD)
