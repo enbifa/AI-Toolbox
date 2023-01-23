@@ -20,7 +20,7 @@ fs.readFile("./filedalavorare/" + fileName, 'utf8', (err, data) => {
     // Formatta la riga con il formato specificato
     var obj = parseLine(line);
     console.log(line);
-    var formattedLine = `### [${obj.name}](${obj.url})`;
+    var formattedLine = `### [${obj.name}](./Categories/${obj.url})`;
     //togli da obj.url il ?via=futurepedia
     obj.url;
 
@@ -68,7 +68,7 @@ fs.readdir("./filedalavorare", (err, files) => {
   });
 });
 //scrivi una funzione che prende in input una riga cosi
-//1.  [Profile Picture AI](https://www.profilepicture.ai)
+//1.  [Profile Picture AI](./Categories/https://www.profilepicture.ai)
 // e restituisce un oggetto json cosi
 // {
 //   "id": 1,

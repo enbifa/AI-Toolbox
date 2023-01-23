@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "path": "^0.12.7"
+    "color-thief-jimp": "^2.0.2",
+    "jimp": "^0.16.2",
+    "path": "^0.12.7",
+    "puppeteer": "^19.6.0"
   }
 }
