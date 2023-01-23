@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "path": "^0.12.7",
-    "puppeteer": "^19.6.0",
-    "sharp": "^0.31.3"
+    "puppeteer": "^19.6.0"
   }
 }
