@@ -1,18 +1,23 @@
+const sharp = require('sharp');
 
- const Jimp = require("jimp");
- var ColorThief = require('color-thief-jimp');
- 
- Jimp.read('screenshot.png')
- .then(lenna => {
-    return lenna
-      .resize(256, 256) // resize
-      .quality(60) // set JPEG quality
-      .greyscale() // set greyscale
-      .write('screenshot1.png'); // save
- })
- .catch(err => {
-   console.error(err);
- });
+sharp({
+    create: {
+      width: 1024,
+      height: 400,
+      channels: 4,
+      background: { r: 0, g: 0, b: 0, alpha: 0 }
+    }
+  })
+  .overlayWith('screenshot.png')
+  .toFile('composite_image.png')
+  .then(() => {
+    console.log('Image created successfully!');
+  })
+  .catch((err) => {
+    console.log('Error:', err);
+  });
+
+
 
 
  

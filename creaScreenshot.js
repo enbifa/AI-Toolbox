@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer');
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
-  await page.goto('https://design.ai');
+  await page.goto('https://www.krisp.ai');
   await page.setViewport({width: 1280, height: 1024});
   const dimensions = await page.evaluate(() => {
     return {
