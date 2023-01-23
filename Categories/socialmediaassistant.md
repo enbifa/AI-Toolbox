@@ -110,4 +110,4 @@ This page lists a collection of Social Media Assistant tools.
 - **Pricing**: -
 
 
-[Back to Index](./README.MD)
+[Back to Index](././README.MD)

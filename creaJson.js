@@ -20,7 +20,7 @@ fs.readdir(folderPath, (err, files) => {
                 const lines = data.split('\n');
                 if (lines[0].startsWith('# ')) {
                     const linkText = lines[0].slice(2);
-                    output.push(`- [${linkText}](./Categories/${file})`);
+                    output.push(`- [${linkText}](././Categories/${file})`);
                 }
                 if(files.indexOf(file) === files.length - 1) {
                     output = output.sort()

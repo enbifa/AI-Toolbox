@@ -40,4 +40,4 @@ This page lists a collection of Legal Assistant tools.
 - **Pricing**: -
 
 
-[Back to Index](./README.MD)
+[Back to Index](././README.MD)

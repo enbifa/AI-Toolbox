@@ -45,4 +45,4 @@ This page lists a collection of Education Assistant tools.
 - **Pricing**: -
 
 
-[Back to Index](./README.MD)
+[Back to Index](././README.MD)

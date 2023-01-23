@@ -125,4 +125,4 @@ This page lists a collection of Image Editing tools.
 - **Pricing**: -
 
 
-[Back to Index](./README.MD)
+[Back to Index](././README.MD)
