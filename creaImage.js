@@ -2,17 +2,17 @@
  const Jimp = require("jimp");
  var ColorThief = require('color-thief-jimp');
  
- Jimp.read("screenshot.png")
- .then(image => {
-     image.resize(256, 256)
-     var dominantColor = ColorThief.getColor(image);
-     console.log(dominantColor);
-     new Jimp(1024, 400, dominantColor, (err, img) => {
-       img.write("colored_image.png");
-     });
+ Jimp.read('screenshot.png')
+ .then(lenna => {
+    return lenna
+      .resize(256, 256) // resize
+      .quality(60) // set JPEG quality
+      .greyscale() // set greyscale
+      .write('screenshot1.png'); // save
  })
  .catch(err => {
-     console.log('Error' )   
-     console.error(err);
+   console.error(err);
  });
+
+
  

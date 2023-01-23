@@ -1,4 +1,4 @@
-# Email Assistant
+# 📧 Email Assistant
 
 This page lists a collection of Email Assistant tools.
 

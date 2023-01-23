@@ -33,7 +33,7 @@ This format should be followed for all new tools suggested for the repository, s
 - 🎨 [Design Assistant](Categories/designassistant.md)
 - 🧑‍💻 [Developer Tools](Categories/developertools.md)
 - 🏫 [Education Assistant](Categories/educationassistant.md)
-- [Email Assistant](Categories/emailassistant.md)
+- 📧 [Email Assistant](Categories/emailassistant.md)
 - [Experiments](Categories/experiments.md)
 - [Fashion](Categories/fashion.md)
 - [Fun Tools](Categories/funtools.md)
