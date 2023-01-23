@@ -1,22 +1,176 @@
-# ⌨️ Copy Writing 
+# ✍🏽 Copywriting
 
 This page lists a collection of Copywriting tools.
 
 ## Tools
 
-### [Adcreative.ai](www.adcreative.ai)
-Adcreative.ai is a powerful tool that helps you create compelling ad copies with the help of advanced AI technology. Whether you're a marketer, business owner, or anyone looking to improve their ad writing skills, Adcreative.ai can help you generate high-quality ad copies in no time.
-- **Link**: www.adcreative.ai
-- **Pricing**: Not specified
+### [Adcreative.ai](https://free-trial.adcreative.ai/yu6pljyh4s0k)
+-
+- **Link**: https://free-trial.adcreative.ai/yu6pljyh4s0k
+- **Pricing**: -
 
-### [Writesonic](www.writesonic.com)
-Writesonic is an AI-powered writing tool that helps you create professional-quality content with ease. With its advanced algorithms and natural language processing, Writesonic can help you write anything from blog posts to e-mails, and more.
-- **Link**: www.writesonic.com
-- **Pricing**: Not specified
+### [Writesonic](https://writesonic.com)
+-
+- **Link**: https://writesonic.com
+- **Pricing**: -
 
-### [Copy.ai](www.copy.ai)
-Copy.ai is an AI-based copywriting tool that helps you create high-quality, persuasive copies in minutes. Whether you're a marketer, business owner, or anyone looking to improve their copywriting skills, Copy.ai can help you generate compelling copies that drive conversions.
-- **Link**: www.copy.ai
-- **Pricing**: Not specified
+### [Copy.ai](https://www.copy.ai)
+-
+- **Link**: https://www.copy.ai
+- **Pricing**: -
 
-[Back to Index](README.MD)
+### [Rytr](https://rytr.me)
+-
+- **Link**: https://rytr.me
+- **Pricing**: -
+
+### [Copymatic](https://copymatic.ai)
+-
+- **Link**: https://copymatic.ai
+- **Pricing**: -
+
+### [CopyMonkey](https://copymonkey.ai)
+-
+- **Link**: https://copymonkey.ai
+- **Pricing**: -
+
+### [Peppertype.ai](https://www.peppertype.ai)
+-
+- **Link**: https://www.peppertype.ai
+- **Pricing**: -
+
+### [Jasper](https://jasper.ai/?source=partner&fpr=futurepedia)
+-
+- **Link**: https://jasper.ai/?source=partner&fpr=futurepedia
+- **Pricing**: -
+
+### [Hypotenuse ai](https://hypotenuse.ai&ref=futurepedia)
+-
+- **Link**: https://hypotenuse.ai&ref=futurepedia
+- **Pricing**: -
+
+### [WiziShop](https://wizishop.com/ai)
+-
+- **Link**: https://wizishop.com/ai
+- **Pricing**: -
+
+### [Ocoya](https://www.ocoya.net)
+-
+- **Link**: https://www.ocoya.net
+- **Pricing**: -
+
+### [Creator AI](https://www.creaitor.ai)
+-
+- **Link**: https://www.creaitor.ai
+- **Pricing**: -
+
+### [ParagraphAI](https://paragraphai.com)
+-
+- **Link**: https://paragraphai.com
+- **Pricing**: -
+
+### [Eilla AI](https://eilla.ai)
+-
+- **Link**: https://eilla.ai
+- **Pricing**: -
+
+### [Contents](https://contents.com)
+-
+- **Link**: https://contents.com
+- **Pricing**: -
+
+### [Cowriter](https://cowriter.org)
+-
+- **Link**: https://cowriter.org
+- **Pricing**: -
+
+### [ArticleForge](https://www.articleforge.com/?ref=f29ac7)
+-
+- **Link**: https://www.articleforge.com/?ref=f29ac7
+- **Pricing**: -
+
+### [Unbound](https://www.unboundcontent.ai)
+-
+- **Link**: https://www.unboundcontent.ai
+- **Pricing**: -
+
+### [Copysmith](https://copysmith.ai)
+-
+- **Link**: https://copysmith.ai
+- **Pricing**: -
+
+### [Typli](https://typli.ai)
+-
+- **Link**: https://typli.ai
+- **Pricing**: -
+
+### [Lek](https://lek.ai)
+-
+- **Link**: https://lek.ai
+- **Pricing**: -
+
+### [Anyword](https://anyword.com)
+-
+- **Link**: https://anyword.com
+- **Pricing**: -
+
+### [HelloScribe](https://helloscribe.ai)
+-
+- **Link**: https://helloscribe.ai
+- **Pricing**: -
+
+### [Simplified](https://simplified.com/ai-writer)
+-
+- **Link**: https://simplified.com/ai-writer
+- **Pricing**: -
+
+### [Easy-Peasy.AI](https://easy-peasy.ai)
+-
+- **Link**: https://easy-peasy.ai
+- **Pricing**: -
+
+### [unbounce](https://unbounce.com/product/smart-copy/)
+-
+- **Link**: https://unbounce.com/product/smart-copy/
+- **Pricing**: -
+
+### [texti](https://texti.app)
+-
+- **Link**: https://texti.app
+- **Pricing**: -
+
+### [Daydrm.ai](https://texti.app)
+-
+- **Link**: https://texti.app
+- **Pricing**: -
+
+### [Closers Copy](https://www.closerscopy.com)
+-
+- **Link**: https://www.closerscopy.com
+- **Pricing**: -
+
+### [VEG3](https://veg3.ai)
+-
+- **Link**: https://veg3.ai
+- **Pricing**: -
+
+### [Botowski](https://www.botowski.com)
+-
+- **Link**: https://www.botowski.com
+- **Pricing**: -
+
+### [Go Charlie](https://gocharlie.ai)
+-
+- **Link**: https://gocharlie.ai
+- **Pricing**: -
+
+### [Digital First AI](https://digitalfirst.ai)
+-
+- **Link**: https://digitalfirst.ai
+- **Pricing**: -
+
+### [Bertha.ai](https://bertha.ai)
+-
+- **Link**: https://bertha.ai
+- **Pricing**: -
+

@@ -1,140 +1,141 @@
-# 🖥️ Code Assistant
+# 🥷 Code Assistant
 
 This page lists a collection of Code Assistant tools.
 
 ## Tools
 
-### [Replit](https://replit.com/?ref=futurepedia)
+### [Replit](https://replit.com)
 -
-- **Link**: https://replit.com/
+- **Link**: https://replit.com
 - **Pricing**: -
 
-### [AutoRegex](https://www.autoregex.xyz/?ref=futurepedia)
+### [AutoRegex](https://www.autoregex.xyz)
 -
-- **Link**: https://www.autoregex.xyz/
+- **Link**: https://www.autoregex.xyz
 - **Pricing**: -
 
-### [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=futurepedia)
+### [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer)
 -
-- **Link**: https://aws.amazon.com/codewhisperer/
+- **Link**: https://aws.amazon.com/codewhisperer
 - **Pricing**: -
 
-### [Tabnine](https://www.tabnine.com/?ref=futurepedia)
+### [Tabnine](https://www.tabnine.com)
 -
-- **Link**: https://www.tabnine.com/
+- **Link**: https://www.tabnine.com
 - **Pricing**: -
 
-### [Copilot](https://github.com/features/copilot?ref=futurepedia)
+### [Copilot](https://github.com/features/copilot)
 -
 - **Link**: https://github.com/features/copilot
 - **Pricing**: -
 
-### [AI CLI](https://github.com/abhagsain/ai-cli?ref=futurepedia)
+### [AI CLI](https://github.com/abhagsain/ai-cli)
 -
 - **Link**: https://github.com/abhagsain/ai-cli
 - **Pricing**: -
 
-### [Codeium](https://www.codeium.com/?ref=futurepedia)
+### [Codeium](https://www.codeium.com)
 -
-- **Link**: https://www.codeium.com/
+- **Link**: https://www.codeium.com
 - **Pricing**: -
 
-### [Lookup](https://app.uselookup.com/?ref=futurepedia)
+### [Lookup](https://app.uselookup.com)
 -
-- **Link**: https://app.uselookup.com/
+- **Link**: https://app.uselookup.com
 - **Pricing**: -
 
-### [Duino Code Generator](https://www.duinocodegenerator.com/?ref=futurepedia)
+### [Duino Code Generator](https://www.duinocodegenerator.com)
 -
-- **Link**: https://www.duinocodegenerator.com/
+- **Link**: https://www.duinocodegenerator.com
 - **Pricing**: -
 
-### [Kodezi ai](https://kodezi.com/?ref=futurepedia)
+### [Kodezi ai](https://kodezi.com)
 -
-- **Link**: https://kodezi.com/
+- **Link**: https://kodezi.com
 - **Pricing**: -
 
 ### [Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick&ref=futurepedia)
 -
-- **Link**: https://marketplace.visualstudio.com/items
+- **Link**: https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick&ref=futurepedia
 - **Pricing**: -
 
-### [Buildt](https://www.buildt.ai/?ref=futurepedia)
+### [Buildt](https://www.buildt.ai)
 -
-- **Link**: https://www.buildt.ai/
+- **Link**: https://www.buildt.ai
 - **Pricing**: -
 
-### [BlackBox AI](https://www.useblackbox.io/?ref=futurepedia)
+### [BlackBox AI](https://www.useblackbox.io)
 -
-- **Link**: https://www.useblackbox.io/
+- **Link**: https://www.useblackbox.io
 - **Pricing**: -
 
-### [Spellbox](https://spellbox.app/?ref=futurepedia)
+### [Spellbox](https://spellbox.app)
 -
-- **Link**: https://spellbox.app/
+- **Link**: https://spellbox.app
 - **Pricing**: -
 
-### [CodeGeeX](https://huggingface.co/spaces/THUDM/CodeGeeX?ref=futurepedia)
+### [CodeGeeX](https://huggingface.co/spaces/THUDM/CodeGeeX)
 -
 - **Link**: https://huggingface.co/spaces/THUDM/CodeGeeX
 - **Pricing**: -
 
-### [Cheat Layer](https://cheatlayer.com/?ref=futurepedia)
+### [Cheat Layer](https://cheatlayer.com)
 -
-- **Link**: https://cheatlayer.com/
+- **Link**: https://cheatlayer.com
 - **Pricing**: -
 
-### [AskCodi](https://www.askcodi.com/?ref=futurepedia)
+### [AskCodi](https://www.askcodi.com)
 -
-- **Link**: https://www.askcodi.com/
+- **Link**: https://www.askcodi.com
 - **Pricing**: -
 
-### [Programminghelper](https://www.programming-helper.com/?ref=futurepedia)
+### [Programminghelper](https://www.programming-helper.com)
 -
-- **Link**: https://www.programming-helper.com/
+- **Link**: https://www.programming-helper.com
 - **Pricing**: -
 
-### [CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist?ref=futurepedia)
+### [CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist)
 -
 - **Link**: https://plugins.jetbrains.com/plugin/20085-codeassist
 - **Pricing**: -
 
-### [Fig AI](https://fig.io/user-manual/ai?ref=futurepedia)
+### [Fig AI](https://fig.io/user-manual/ai)
 -
 - **Link**: https://fig.io/user-manual/ai
 - **Pricing**: -
 
-### [Mutable](https://mutable.ai/?ref=futurepedia)
+### [Mutable](https://mutable.ai)
 -
-- **Link**: https://mutable.ai/
+- **Link**: https://mutable.ai
 - **Pricing**: -
 
 ### [Clippy AI](https://marketplace.visualstudio.com/items?itemName=clippy-ai.clippy-ai&ref=futurepedia)
 -
-- **Link**: https://marketplace.visualstudio.com/items
+- **Link**: https://marketplace.visualstudio.com/items?itemName=clippy-ai.clippy-ai&ref=futurepedia
 - **Pricing**: -
 
-### [Continual](https://continual.ai/?ref=futurepedia)
+### [Continual](https://continual.ai)
 -
-- **Link**: https://continual.ai/
+- **Link**: https://continual.ai
 - **Pricing**: -
 
-### [Stenography](https://stenography.dev/?ref=futurepedia)
+### [Stenography](https://stenography.dev)
 -
-- **Link**: https://stenography.dev/
+- **Link**: https://stenography.dev
 - **Pricing**: -
 
-### [WhatTheDiff](https://whatthediff.ai/?ref=futurepedia)
+### [WhatTheDiff](https://whatthediff.ai)
 -
-- **Link**: https://whatthediff.ai/
+- **Link**: https://whatthediff.ai
 - **Pricing**: -
 
-### [Hey, Github!](https://githubnext.com/projects/hey-github?ref=futurepedia)
+### [Hey, Github!](https://githubnext.com/projects/hey-github)
 -
 - **Link**: https://githubnext.com/projects/hey-github
 - **Pricing**: -
 
-### [CodeSquire](https://codesquire.ai/?ref=futurepedia)
+### [CodeSquire](https://codesquire.ai)
 -
-- **Link**: https://codesquire.ai/
+- **Link**: https://codesquire.ai
 - **Pricing**: -
+
