@@ -99,3 +99,5 @@ This page lists a collection of Summarizer tools.
 - **Link**: https://tldrthis.com
 - **Pricing**: -
 
+
+[Back to Index](README.MD)

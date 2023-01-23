@@ -64,3 +64,5 @@ This page lists a collection of Transcriber tools.
 - **Link**: https://www.typestudio.co/tool/video-to-text
 - **Pricing**: -
 
+
+[Back to Index](README.MD)

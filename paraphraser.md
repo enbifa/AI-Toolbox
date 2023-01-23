@@ -54,3 +54,5 @@ This page lists a collection of Paraphraser tools.
 - **Link**: https://rephrasely.com
 - **Pricing**: -
 
+
+[Back to Index](README.MD)

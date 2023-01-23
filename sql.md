@@ -44,3 +44,5 @@ This page lists a collection of SQL tools.
 - **Link**: https://codesquire.ai
 - **Pricing**: -
 
+
+[Back to Index](README.MD)

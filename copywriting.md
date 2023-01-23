@@ -174,3 +174,5 @@ This page lists a collection of Copywriting tools.
 - **Link**: https://bertha.ai
 - **Pricing**: -
 
+
+[Back to Index](README.MD)

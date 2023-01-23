@@ -29,3 +29,5 @@ This page lists a collection of Logo Generator tools.
 - **Link**: https://brandmark.io/tools
 - **Pricing**: -
 
+
+[Back to Index](README.MD)

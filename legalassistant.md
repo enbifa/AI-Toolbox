@@ -39,3 +39,5 @@ This page lists a collection of Legal Assistant tools.
 - **Link**: https://www.spellbook.legal
 - **Pricing**: -
 
+
+[Back to Index](README.MD)

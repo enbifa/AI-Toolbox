@@ -124,3 +124,5 @@ This page lists a collection of Image Editing tools.
 - **Link**: https://magiceraser.io
 - **Pricing**: -
 
+
+[Back to Index](README.MD)

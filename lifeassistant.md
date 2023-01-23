@@ -99,3 +99,5 @@ This page lists a collection of Life Assistant tools.
 - **Link**: https://resumeworded.com/index.php
 - **Pricing**: -
 
+
+[Back to Index](README.MD)
