@@ -4,7 +4,7 @@ const puppeteer = require('puppeteer');
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.goto('https://www.krisp.ai');
-  await page.setViewport({width: 1280, height: 1024});
+  await page.setViewport({width: 1280, height: 300});
   const dimensions = await page.evaluate(() => {
     return {
       width: document.documentElement.clientWidth,
