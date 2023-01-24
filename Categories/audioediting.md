@@ -6,7 +6,7 @@ This page lists a collection of Audio Editing tools.
 
 ### [Krisp](krisp.ai)
 <a href="https://www.example.com">
-   <img src="screenshot.png" width="400" height="300">
+   <img src="screenshot.png" width="1280" height="300">
 </a>
 
 Krisp is an advanced AI-based software that eliminates background noise, voices, and echo from all your calls, ensuring a distraction-free and serene communication experience. Whether you're in a noisy coffee shop or working from a home office, Krisp can improve the audio quality of your calls, making them clear and easy to understand. The software is perfect for professionals, freelancers, and anyone who wants to improve their communication experience.
