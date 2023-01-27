@@ -5,7 +5,7 @@ This page lists a collection of Audio Editing tools.
 ## Tools
 
 ### [Krisp](krisp.ai)
-<a href="https://www.example.com">
+<a href="krisp.ai">
    <img src="screenshot.png" width="400" height="300">
 </a>
 
