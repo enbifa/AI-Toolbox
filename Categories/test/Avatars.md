@@ -16,7 +16,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://avatarai.me">
    <img src="media/Avatar AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://avatarai.me
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://xpressioncamera.com">
    <img src="media/Xpression Camera.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://xpressioncamera.com
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://hey.reface.ai">
    <img src="media/Reface AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://hey.reface.ai
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://www.animeai.lol">
    <img src="media/AnimeAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.animeai.lol
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://avatarify.art">
    <img src="media/Avatarify.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://avatarify.art
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://store.steampowered.com/app/1889620/AI_Roguelite">
    <img src="media/AI Roguelite.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://store.steampowered.com/app/1889620/AI_Roguelite
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://in3d.io">
    <img src="media/In3D.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://in3d.io
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://www.hairstyleai.com">
    <img src="media/HairstyleAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.hairstyleai.com
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://www.inworld.ai">
    <img src="media/Inworld.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.inworld.ai
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://unrealme.io">
    <img src="media/Unrealme.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://unrealme.io
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://photoai.me">
    <img src="media/PhotoAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://photoai.me
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://beta.character.ai">
    <img src="media/Character AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://beta.character.ai
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://neural.cam/studio">
    <img src="media/NeuralStudio.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://neural.cam/studio
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="http://Arti.pics">
    <img src="media/Arti.pics.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: http://Arti.pics
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://theoasis.com">
    <img src="media/Theoasis.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://theoasis.com
 - **Pricing**: -
 
@@ -160,7 +160,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://www.mygemsouls.com">
    <img src="media/Gemsouls.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.mygemsouls.com
 - **Pricing**: -
 
@@ -168,7 +168,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://readyplayer.me">
    <img src="media/Ready Player Me.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://readyplayer.me
 - **Pricing**: -
 
@@ -176,7 +176,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://pictodream.com">
    <img src="media/PictoDream.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://pictodream.com
 - **Pricing**: -
 
@@ -184,7 +184,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="http://Beb.ai">
    <img src="media/Beb.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: http://Beb.ai
 - **Pricing**: -
 
@@ -200,7 +200,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://www.hairgen.ai">
    <img src="media/Hairgen AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.hairgen.ai
 - **Pricing**: -
 
@@ -208,7 +208,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://portrait.vana.com">
    <img src="media/Vana Portrait.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://portrait.vana.com
 - **Pricing**: -
 
@@ -216,7 +216,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="http://DreamPic.AI">
    <img src="media/DreamPic.AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: http://DreamPic.AI
 - **Pricing**: -
 
@@ -224,7 +224,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://pictodream.com">
    <img src="media/PictoDream.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://pictodream.com
 - **Pricing**: -
 
@@ -232,7 +232,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="http://Beb.ai">
    <img src="media/Beb.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: http://Beb.ai
 - **Pricing**: -
 
@@ -240,7 +240,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://www.myheritage.com/ai-time-machine">
    <img src="media/AI Time Machine.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.myheritage.com/ai-time-machine
 - **Pricing**: -
 
@@ -248,7 +248,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://www.hairgen.ai">
    <img src="media/Hairgen AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.hairgen.ai
 - **Pricing**: -
 
@@ -256,7 +256,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="https://portrait.vana.com">
    <img src="media/Vana Portrait.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://portrait.vana.com
 - **Pricing**: -
 
@@ -264,7 +264,7 @@ This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 <a href="http://DreamPic.AI">
    <img src="media/DreamPic.AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: http://DreamPic.AI
 - **Pricing**: -
 

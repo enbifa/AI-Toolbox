@@ -8,7 +8,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://explainlikeimfive.io">
    <img src="media/ELI5.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://explainlikeimfive.io
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://books.google.com/talktobooks">
    <img src="media/Talk to Books.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://books.google.com/talktobooks
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://movietoemoji.netlify.app">
    <img src="media/MovieToEmoji.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://movietoemoji.netlify.app
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.hellohistory.ai">
    <img src="media/Hello History.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.hellohistory.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://addcontext.xyz">
    <img src="media/Context.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://addcontext.xyz
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://unrealmeal.ai">
    <img src="media/Unreal Meal.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://unrealmeal.ai
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://hey.reface.ai">
    <img src="media/Reface AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://hey.reface.ai
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.anypod.ai">
    <img src="media/Anypod.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.anypod.ai
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.playlistai.app">
    <img src="media/PlaylistAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.playlistai.app
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.animeai.lol">
    <img src="media/AnimeAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.animeai.lol
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://neuralcanvas.io">
    <img src="media/Neural Canvas.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://neuralcanvas.io
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.restorephotos.io">
    <img src="media/RestorePhotos.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.restorephotos.io
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://steno.ai">
    <img src="media/Steno.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://steno.ai
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://politepost.net">
    <img src="media/PolitePost.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://politepost.net
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://askthee.vercel.app">
    <img src="media/AskThee.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://askthee.vercel.app
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.asknow.ai">
    <img src="media/AskNow.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.asknow.ai
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.nostalgia.photo">
    <img src="media/Nostalgia Photo.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.nostalgia.photo
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.findyournextbook.ai">
    <img src="media/Find Your Next Book.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.findyournextbook.ai
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.hairstyleai.com">
    <img src="media/HairstyleAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.hairstyleai.com
 - **Pricing**: -
 
@@ -160,7 +160,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.rosebud.ai">
    <img src="media/Rosebud.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.rosebud.ai
 - **Pricing**: -
 
@@ -168,7 +168,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://jokelub.com">
    <img src="media/Jokelub.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://jokelub.com
 - **Pricing**: -
 
@@ -176,7 +176,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://supermeme.ai">
    <img src="media/Supermeme.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://supermeme.ai
 - **Pricing**: -
 
@@ -184,7 +184,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://blackink.ai">
    <img src="media/BlackInk.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://blackink.ai
 - **Pricing**: -
 
@@ -192,7 +192,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.voicemod.net">
    <img src="media/Voicemod.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.voicemod.net
 - **Pricing**: -
 
@@ -200,7 +200,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.santa.artflow.ai">
    <img src="media/Santa AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.santa.artflow.ai
 - **Pricing**: -
 
@@ -208,7 +208,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.justlearn.com">
    <img src="media/JustLearn.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.justlearn.com
 - **Pricing**: -
 
@@ -216,7 +216,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://beta.character.ai">
    <img src="media/Character AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://beta.character.ai
 - **Pricing**: -
 
@@ -224,7 +224,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://tweetemote.com">
    <img src="media/Tweet Emote.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://tweetemote.com
 - **Pricing**: -
 
@@ -232,7 +232,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.tattoosai.com">
    <img src="media/Tattoos AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.tattoosai.com
 - **Pricing**: -
 
@@ -240,7 +240,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://fakeyou.com">
    <img src="media/FakeYou.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://fakeyou.com
 - **Pricing**: -
 
@@ -248,7 +248,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://www.myheritage.com/ai-time-machine">
    <img src="media/AI Time Machine.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.myheritage.com/ai-time-machine
 - **Pricing**: -
 
@@ -256,7 +256,7 @@ This page lists a collection of 👻 Fun Tools tools.
 <a href="https://chai.ml">
    <img src="media/Chai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://chai.ml
 - **Pricing**: -
 

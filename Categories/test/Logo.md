@@ -16,7 +16,7 @@ This page lists a collection of ▶️ Logo Generator tools.
 <a href="https://www.namecheap.com/logo-maker/app/new">
    <img src="media/Namecheap Logo Maker.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.namecheap.com/logo-maker/app/new
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of ▶️ Logo Generator tools.
 <a href="https://makelogoai.com">
    <img src="media/Make Logo AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://makelogoai.com
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of ▶️ Logo Generator tools.
 <a href="https://designs.ai">
    <img src="media/Designs AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://designs.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of ▶️ Logo Generator tools.
 <a href="https://brandmark.io/tools">
    <img src="media/Brandmark.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://brandmark.io/tools
 - **Pricing**: -
 

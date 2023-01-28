@@ -8,7 +8,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://free-trial.adcreative.ai/yu6pljyh4s0k">
    <img src="media/Adcreative.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://free-trial.adcreative.ai/yu6pljyh4s0k
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://www.canva.com/your-apps/text-to-image">
    <img src="media/Canva Text to Image.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.canva.com/your-apps/text-to-image
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://replai.so">
    <img src="media/Repl AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://replai.so
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://magicthumbnails.com">
    <img src="media/MagicThumbnails.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://magicthumbnails.com
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://photor.io/photoscore">
    <img src="media/Photor AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://photor.io/photoscore
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://predis.ai">
    <img src="media/Predis.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://predis.ai
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://www.spatial.ai">
    <img src="media/Spatial.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.spatial.ai
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://www.ocoya.net">
    <img src="media/Ocoya.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.ocoya.net
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://www.getmunch.com">
    <img src="media/Munch.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.getmunch.com
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://aisocialbio.com">
    <img src="media/AI Social Bio.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://aisocialbio.com
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://www.grahamai.co">
    <img src="media/Graham AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.grahamai.co
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://tweetemote.com">
    <img src="media/TweetEmote.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://tweetemote.com
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://socialbu.com">
    <img src="media/SocialBu.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://socialbu.com
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://www.editby.ai">
    <img src="media/Editby.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.editby.ai
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://contenda.co">
    <img src="media/Contentada.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://contenda.co
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://www.audiolabs.io">
    <img src="media/Audiolabs.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.audiolabs.io
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://tweethunter.io">
    <img src="media/Tweet Hunter.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://tweethunter.io
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://www.feedhive.com">
    <img src="media/FeedHive.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.feedhive.com
 - **Pricing**: -
 
@@ -160,7 +160,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://wordhero.co">
    <img src="media/Wordhero.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://wordhero.co
 - **Pricing**: -
 
@@ -168,7 +168,7 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 <a href="https://instasalesai.com">
    <img src="media/InstaSalesAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://instasalesai.com
 - **Pricing**: -
 

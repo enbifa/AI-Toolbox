@@ -40,7 +40,7 @@ This page lists a collection of ▶️ Logo Generator tools.
 <a href="https://brandmark.io/tools">
    <img src="media/Brandmark.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://brandmark.io/tools
 - **Pricing**: -
 

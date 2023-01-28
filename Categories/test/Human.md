@@ -8,7 +8,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://geniusreview.xyz">
    <img src="media/GeniusReview.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://geniusreview.xyz
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://www.useslingshot.com/swagai">
    <img src="media/SwagAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.useslingshot.com/swagai
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://upcat.app">
    <img src="media/Upcat.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://upcat.app
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://www.ferret.ai">
    <img src="media/Ferret.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.ferret.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://writemeacoverletter.com">
    <img src="media/Write Me A Cover Letter.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://writemeacoverletter.com
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://www.moveworks.com">
    <img src="media/Moveworks.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.moveworks.com
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://getdost.com">
    <img src="media/Dost.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://getdost.com
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://www.getautumn.com">
    <img src="media/Autumn AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.getautumn.com
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://qatalog.com">
    <img src="media/Qatalog.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://qatalog.com
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://www.proposalgenie.ai">
    <img src="media/Proposal Genie.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.proposalgenie.ai
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://aicareers.io">
    <img src="media/AI Careers.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://aicareers.io
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://kore.ai">
    <img src="media/Kore.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://kore.ai
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://jobtitlesai.com">
    <img src="media/JobtitlesAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://jobtitlesai.com
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://resumeworded.com/index.php">
    <img src="media/Resume Worded.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://resumeworded.com/index.php
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 💼 Human Resources tools.
 <a href="https://hireyay.com">
    <img src="media/HireYaY.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://hireyay.com
 - **Pricing**: -
 

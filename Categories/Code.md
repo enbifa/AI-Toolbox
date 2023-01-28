@@ -8,7 +8,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://replit.com">
    <img src="media/Replit.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://replit.com
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://www.autoregex.xyz">
    <img src="media/AutoRegex.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.autoregex.xyz
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://aws.amazon.com/codewhisperer">
    <img src="media/Amazon CodeWhisperer.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://aws.amazon.com/codewhisperer
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://www.tabnine.com">
    <img src="media/Tabnine.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.tabnine.com
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://github.com/features/copilot">
    <img src="media/Copilot.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://github.com/features/copilot
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://github.com/abhagsain/ai-cli">
    <img src="media/AI CLI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://github.com/abhagsain/ai-cli
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://www.codeium.com">
    <img src="media/Codeium.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.codeium.com
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://app.uselookup.com">
    <img src="media/Lookup.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://app.uselookup.com
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://www.duinocodegenerator.com">
    <img src="media/Duino Code Generator.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.duinocodegenerator.com
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://kodezi.com">
    <img src="media/Kodezi ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://kodezi.com
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://www.buildt.ai">
    <img src="media/Buildt.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.buildt.ai
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://www.useblackbox.io">
    <img src="media/BlackBox AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.useblackbox.io
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://spellbox.app">
    <img src="media/Spellbox.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://spellbox.app
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://huggingface.co/spaces/THUDM/CodeGeeX">
    <img src="media/CodeGeeX.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://huggingface.co/spaces/THUDM/CodeGeeX
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://cheatlayer.com">
    <img src="media/Cheat Layer.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://cheatlayer.com
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://www.askcodi.com">
    <img src="media/AskCodi.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.askcodi.com
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://www.programming-helper.com">
    <img src="media/Programminghelper.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.programming-helper.com
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://plugins.jetbrains.com/plugin/20085-codeassist">
    <img src="media/CodeAssist.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://plugins.jetbrains.com/plugin/20085-codeassist
 - **Pricing**: -
 
@@ -160,7 +160,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://fig.io/user-manual/ai">
    <img src="media/Fig AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://fig.io/user-manual/ai
 - **Pricing**: -
 
@@ -168,7 +168,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://mutable.ai">
    <img src="media/Mutable.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://mutable.ai
 - **Pricing**: -
 
@@ -184,7 +184,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://continual.ai">
    <img src="media/Continual.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://continual.ai
 - **Pricing**: -
 
@@ -192,7 +192,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://stenography.dev">
    <img src="media/Stenography.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://stenography.dev
 - **Pricing**: -
 
@@ -200,7 +200,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://whatthediff.ai">
    <img src="media/WhatTheDiff.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://whatthediff.ai
 - **Pricing**: -
 
@@ -208,7 +208,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://githubnext.com/projects/hey-github">
    <img src="media/Hey, Github!.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://githubnext.com/projects/hey-github
 - **Pricing**: -
 
@@ -216,7 +216,7 @@ This page lists a collection of 🥷 Code Assistant tools.
 <a href="https://codesquire.ai">
    <img src="media/CodeSquire.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://codesquire.ai
 - **Pricing**: -
 

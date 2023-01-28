@@ -8,7 +8,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://www.autoregex.xyz">
    <img src="media/AutoRegex.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.autoregex.xyz
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://aws.amazon.com/codewhisperer">
    <img src="media/Amazon CodeWhisperer.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://aws.amazon.com/codewhisperer
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://teachablemachine.withgoogle.com">
    <img src="media/Teachable Machine.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://teachablemachine.withgoogle.com
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://stability.ai">
    <img src="media/Stable Diffusion.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://stability.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="http://rtutor.ai">
    <img src="media/Rtutor.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: http://rtutor.ai
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://github.com/abhagsain/ai-cli">
    <img src="media/AI CLI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://github.com/abhagsain/ai-cli
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://valyr.vercel.app">
    <img src="media/Valyr.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://valyr.vercel.app
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://www.shaped.ai">
    <img src="media/Shaped.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.shaped.ai
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://retune.so">
    <img src="media/Retune.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://retune.so
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://promptlayer.com">
    <img src="media/PromptLayer.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://promptlayer.com
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://bria.ai">
    <img src="media/Bria.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://bria.ai
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://nuclia.com">
    <img src="media/Nuclia.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://nuclia.com
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://chatbotkit.com">
    <img src="media/Chatbotkit.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://chatbotkit.com
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://www.gptduck.com">
    <img src="media/GptDuck.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.gptduck.com
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://www.buildt.ai">
    <img src="media/Buildt.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.buildt.ai
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://www.textomap.com">
    <img src="media/Textomap.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.textomap.com
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://www.convai.com">
    <img src="media/Convai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.convai.com
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://riku.ai">
    <img src="media/Riku.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://riku.ai
 - **Pricing**: -
 
@@ -160,7 +160,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://mintlify.com">
    <img src="media/Mintlify.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://mintlify.com
 - **Pricing**: -
 
@@ -168,7 +168,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://gpux.ai">
    <img src="media/GPUX.AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://gpux.ai
 - **Pricing**: -
 
@@ -176,7 +176,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://lightning.ai">
    <img src="media/Lightning AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://lightning.ai
 - **Pricing**: -
 
@@ -184,7 +184,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://score.ampermusic.com">
    <img src="media/Amper.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://score.ampermusic.com
 - **Pricing**: -
 
@@ -192,7 +192,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://tinq.ai">
    <img src="media/Tinq.ai-NLP API.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://tinq.ai
 - **Pricing**: -
 
@@ -200,7 +200,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://www.pipeline.ai">
    <img src="media/Pipeline AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.pipeline.ai
 - **Pricing**: -
 
@@ -208,7 +208,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://liner.ai">
    <img src="media/Liner.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://liner.ai
 - **Pricing**: -
 
@@ -216,7 +216,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://github.com/openai/whisper">
    <img src="media/Whisper.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://github.com/openai/whisper
 - **Pricing**: -
 
@@ -224,7 +224,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://syntheticaidata.com">
    <img src="media/SyntheticAldata.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://syntheticaidata.com
 - **Pricing**: -
 
@@ -232,7 +232,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="Meta">
    <img src="media/Shumai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: Meta
 - **Pricing**: -
 
@@ -240,7 +240,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://moonbeam.ai">
    <img src="media/Moonbeam Exchange.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://moonbeam.ai
 - **Pricing**: -
 
@@ -248,7 +248,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://www.runpod.io">
    <img src="media/RunPod.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.runpod.io
 - **Pricing**: -
 
@@ -256,7 +256,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://stenography.dev">
    <img src="media/Stenography.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://stenography.dev
 - **Pricing**: -
 
@@ -264,7 +264,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://dust.tt">
    <img src="media/Dust.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://dust.tt
 - **Pricing**: -
 
@@ -272,7 +272,7 @@ This page lists a collection of 🧑‍💻 Developer Tools tools.
 <a href="https://csm.ai">
    <img src="media/CSM.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://csm.ai
 - **Pricing**: -
 

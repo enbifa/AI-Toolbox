@@ -8,7 +8,7 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 <a href="https://www.airops.com">
    <img src="media/AI Data Sidekick.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.airops.com
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 <a href="https://www.ai2sql.io">
    <img src="media/Ai2sql.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.ai2sql.io
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 <a href="https://www.usechannel.com">
    <img src="media/Channel.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.usechannel.com
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 <a href="https://aihelperbot.com">
    <img src="media/AIHelperBot.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://aihelperbot.com
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 <a href="https://www.seek.ai">
    <img src="media/Seek.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.seek.ai
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 <a href="https://avanty.app">
    <img src="media/Avanty.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://avanty.app
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 <a href="https://continual.ai">
    <img src="media/Continual.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://continual.ai
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 <a href="https://codesquire.ai">
    <img src="media/CodeSquire.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://codesquire.ai
 - **Pricing**: -
 

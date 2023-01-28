@@ -8,7 +8,7 @@ This page lists a collection of ⚖️ Legal Assistant tools.
 <a href="https://donotpay.com">
    <img src="media/DoNotPay.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://donotpay.com
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of ⚖️ Legal Assistant tools.
 <a href="https://www.ferret.ai">
    <img src="media/Ferret.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.ferret.ai
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of ⚖️ Legal Assistant tools.
 <a href="https://detangle.ai">
    <img src="media/Detangle.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://detangle.ai
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of ⚖️ Legal Assistant tools.
 <a href="https://legalrobot.com">
    <img src="media/Legal Robot.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://legalrobot.com
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of ⚖️ Legal Assistant tools.
 <a href="https://activazon.com">
    <img src="media/Activazon.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://activazon.com
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of ⚖️ Legal Assistant tools.
 <a href="https://casetext.com">
    <img src="media/Casetext.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://casetext.com
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of ⚖️ Legal Assistant tools.
 <a href="https://www.spellbook.legal">
    <img src="media/Spellbook.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.spellbook.legal
 - **Pricing**: -
 

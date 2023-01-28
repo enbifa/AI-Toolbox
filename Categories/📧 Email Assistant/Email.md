@@ -8,7 +8,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.hoppycopy.co">
    <img src="media/HoppyCopy.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.hoppycopy.co
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://rytr.me">
    <img src="media/Rytr.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://rytr.me
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.hellorobin.ai">
    <img src="media/Robin.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.hellorobin.ai
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://chatgptwriter.ai">
    <img src="media/ChatGPT Writer.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://chatgptwriter.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://instantly.ai">
    <img src="media/Instantly.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://instantly.ai
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.quicklines.ai">
    <img src="media/Quicklines.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.quicklines.ai
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.mentioned.ai">
    <img src="media/Mentioned.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.mentioned.ai
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://politepost.net">
    <img src="media/PolitePost.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://politepost.net
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://reply.io/sales-email-assistant">
    <img src="media/Reply.io.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://reply.io/sales-email-assistant
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://ipso.ai">
    <img src="media/Ipso AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://ipso.ai
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.regie.ai">
    <img src="media/Regie.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.regie.ai
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://paragraphai.com">
    <img src="media/ParagraphAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://paragraphai.com
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.magicreach.ai">
    <img src="media/Magicreach.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.magicreach.ai
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://warmer.ai">
    <img src="media/Warmer.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://warmer.ai
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://ortto.com/artificial-intelligence-marketing">
    <img src="media/Ortto.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://ortto.com/artificial-intelligence-marketing
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.creatext.ai">
    <img src="media/Creatext.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.creatext.ai
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.lavender.ai">
    <img src="media/Lavender.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.lavender.ai
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://superreply.co">
    <img src="media/SuperReply.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://superreply.co
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://draftlab.ai">
    <img src="media/DraftLab.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://draftlab.ai
 - **Pricing**: -
 
@@ -160,7 +160,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.smartwriter.ai">
    <img src="media/Smartwriter.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.smartwriter.ai
 - **Pricing**: -
 
@@ -168,7 +168,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://postaga.com">
    <img src="media/Postaga.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://postaga.com
 - **Pricing**: -
 
@@ -176,7 +176,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://getitout.io">
    <img src="media/GETitOUT.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://getitout.io
 - **Pricing**: -
 
@@ -184,7 +184,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://getluna.dev">
    <img src="media/Luna.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://getluna.dev
 - **Pricing**: -
 
@@ -192,7 +192,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://outplayhq.com">
    <img src="media/Outplayhq.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://outplayhq.com
 - **Pricing**: -
 
@@ -200,7 +200,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://wordhero.co">
    <img src="media/Wordhero.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://wordhero.co
 - **Pricing**: -
 
@@ -208,7 +208,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://ellieai.com">
    <img src="media/Ellie.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://ellieai.com
 - **Pricing**: -
 
@@ -216,7 +216,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://www.mateai.io">
    <img src="media/MateAI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.mateai.io
 - **Pricing**: -
 
@@ -224,7 +224,7 @@ This page lists a collection of 📧 Email Assistant tools.
 <a href="https://pipl.ai">
    <img src="media/Pipl.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://pipl.ai
 - **Pricing**: -
 

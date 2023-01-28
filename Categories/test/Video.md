@@ -8,7 +8,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://fliki.ai">
    <img src="media/Fliki.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://fliki.ai
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://pollinations.ai">
    <img src="media/Pollinations.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://pollinations.ai
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="D-ID">
    <img src="media/Creative Reality Studio.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: D-ID
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://www.peech-ai.com">
    <img src="media/Peech.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.peech-ai.com
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://xpressioncamera.com">
    <img src="media/Xpression Camera.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://xpressioncamera.com
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://www.astria.ai">
    <img src="media/Astria.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.astria.ai
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://www.livereacting.com/ai-host-for-live-stream">
    <img src="media/LiveReacting AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.livereacting.com/ai-host-for-live-stream
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://shuffll.com">
    <img src="media/Shuffll.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://shuffll.com
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://www.wonderdynamics.com">
    <img src="media/Wonder Dynamics.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.wonderdynamics.com
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://pyttipanna.xyz">
    <img src="media/Pyttipanna.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://pyttipanna.xyz
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://www.movio.la">
    <img src="media/Movio.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.movio.la
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://hourone.ai">
    <img src="media/Hourone.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://hourone.ai
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://www.colossyan.com">
    <img src="media/Colossyan.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.colossyan.com
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://wowto.ai">
    <img src="media/WowTo.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://wowto.ai
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://opus.ai">
    <img src="media/Opus.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://opus.ai
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://invideo.io">
    <img src="media/InVideo.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://invideo.io
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://www.steve.ai">
    <img src="media/Steve AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.steve.ai
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://www.synthesia.io">
    <img src="media/Synthesia.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.synthesia.io
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://www.audiolabs.io">
    <img src="media/Audiolabs.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.audiolabs.io
 - **Pricing**: -
 
@@ -160,7 +160,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://waymark.com">
    <img src="media/Waymark.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://waymark.com
 - **Pricing**: -
 
@@ -168,7 +168,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://designs.ai">
    <img src="media/Designs AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://designs.ai
 - **Pricing**: -
 
@@ -176,7 +176,7 @@ This page lists a collection of 📼 Video Generator tools.
 <a href="https://replicate.com/google-research/frame-interpolation">
    <img src="media/FILM.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://replicate.com/google-research/frame-interpolation
 - **Pricing**: -
 

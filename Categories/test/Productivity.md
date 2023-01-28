@@ -8,7 +8,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://krisp.ai">
    <img src="media/Krisp.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://krisp.ai
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://chat.openai.com/chat">
    <img src="media/ChatGPT.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://chat.openai.com/chat
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.rewind.ai">
    <img src="media/Rewind AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.rewind.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://noty.ai">
    <img src="media/Noty.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://noty.ai
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://chatgptwriter.ai">
    <img src="media/ChatGPT Writer.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://chatgptwriter.ai
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://whispermemos.com">
    <img src="media/Whisper Memos.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://whispermemos.com
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://fireflies.ai">
    <img src="media/fireflies.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://fireflies.ai
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.alfredsearch.com">
    <img src="media/Alfred.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.alfredsearch.com
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.springworks.in/albus">
    <img src="media/Albus.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.springworks.in/albus
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban">
    <img src="media/ChatGPT Chrome Extension.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://merlin.foyer.work">
    <img src="media/Merlin.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://merlin.foyer.work
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://askoracle.app">
    <img src="media/Oracle.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://askoracle.app
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://apps.apple.com/us/app/bright-eye/id1593932475">
    <img src="media/Bright Eye.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://apps.apple.com/us/app/bright-eye/id1593932475
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.slidesai.io">
    <img src="media/Slides AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.slidesai.io
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://rationale.jina.ai">
    <img src="media/Rationale.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://rationale.jina.ai
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://flowgpt.com">
    <img src="media/FlowGPT.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://flowgpt.com
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://supernormal.com">
    <img src="media/Supernormal.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://supernormal.com
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://ipso.ai">
    <img src="media/Ipso AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://ipso.ai
 - **Pricing**: -
 
@@ -160,7 +160,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://tinywow.com">
    <img src="media/TinyWow.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://tinywow.com
 - **Pricing**: -
 
@@ -168,7 +168,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://typly.app">
    <img src="media/typly.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://typly.app
 - **Pricing**: -
 
@@ -176,7 +176,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://maester.app">
    <img src="media/Maester.app.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://maester.app
 - **Pricing**: -
 
@@ -184,7 +184,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.adobe.com/br/sensei.html">
    <img src="media/Adobe Sensei.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.adobe.com/br/sensei.html
 - **Pricing**: -
 
@@ -192,7 +192,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://summereyes.ai">
    <img src="media/SummerEyes.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://summereyes.ai
 - **Pricing**: -
 
@@ -200,7 +200,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.cogniflow.ai">
    <img src="media/Cogniflow.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.cogniflow.ai
 - **Pricing**: -
 
@@ -208,7 +208,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.xembly.com">
    <img src="media/Xembly.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.xembly.com
 - **Pricing**: -
 
@@ -216,7 +216,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://reclaim.ai">
    <img src="media/Reclaim AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://reclaim.ai
 - **Pricing**: -
 
@@ -224,7 +224,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://mem.ai">
    <img src="media/Mem.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://mem.ai
 - **Pricing**: -
 
@@ -232,7 +232,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://nanonets.com">
    <img src="media/Nanonets.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://nanonets.com
 - **Pricing**: -
 
@@ -240,7 +240,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://otter.ai">
    <img src="media/Otter AI.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://otter.ai
 - **Pricing**: -
 
@@ -248,7 +248,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.puzzlelabs.ai">
    <img src="media/Puzzle.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.puzzlelabs.ai
 - **Pricing**: -
 
@@ -256,7 +256,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://qatalog.com">
    <img src="media/Qatalog.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://qatalog.com
 - **Pricing**: -
 
@@ -264,7 +264,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://texti.app">
    <img src="media/texti.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://texti.app
 - **Pricing**: -
 
@@ -272,7 +272,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://marketplan.io">
    <img src="media/Marketplan.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://marketplan.io
 - **Pricing**: -
 
@@ -280,7 +280,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.glean.com">
    <img src="media/Glean.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.glean.com
 - **Pricing**: -
 
@@ -288,7 +288,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.enzyme.com">
    <img src="media/Enzyme.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.enzyme.com
 - **Pricing**: -
 
@@ -296,7 +296,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://text-gen.com">
    <img src="media/Text Generator Plugin.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://text-gen.com
 - **Pricing**: -
 
@@ -304,7 +304,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://scale.com">
    <img src="media/Scale.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://scale.com
 - **Pricing**: -
 
@@ -312,7 +312,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://www.personal.ai">
    <img src="media/Personal.ai.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://www.personal.ai
 - **Pricing**: -
 
@@ -320,7 +320,7 @@ This page lists a collection of ⌚ Productivity tools.
 <a href="https://deepl.com">
    <img src="media/DeepL.png" width="400" height="300">
 </a>
--
+-    
 - **Link**: https://deepl.com
 - **Pricing**: -
 
