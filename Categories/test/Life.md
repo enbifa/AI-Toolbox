@@ -8,7 +8,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.apple.com/in/apple-books">
    <img src="media/Apple Books.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.apple.com/in/apple-books
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.rewind.ai">
    <img src="media/Rewind AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.rewind.ai
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://replika.com">
    <img src="media/Replika.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://replika.com
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://ai.prodi.gg">
    <img src="media/Prodigy AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://ai.prodi.gg
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.elektrif.ai">
    <img src="media/Elektrif AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.elektrif.ai
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.playlistai.app">
    <img src="media/PlaylistAI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.playlistai.app
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.ferret.ai">
    <img src="media/Ferret.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.ferret.ai
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://writemeacoverletter.com">
    <img src="media/Write Me A Cover Letter.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://writemeacoverletter.com
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.findyournextbook.ai">
    <img src="media/Find Your Next Book.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.findyournextbook.ai
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://tinywow.com">
    <img src="media/TinyWow.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://tinywow.com
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://circle.isyourshadowyou.com/Home.html">
    <img src="media/Circle Labs.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://circle.isyourshadowyou.com/Home.html
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://blackink.ai">
    <img src="media/BlackInk.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://blackink.ai
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.justlearn.com">
    <img src="media/JustLearn.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.justlearn.com
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.caktus.ai">
    <img src="media/Caktus.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.caktus.ai
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961">
    <img src="media/AI Trip Planner.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.thekeys.ai">
    <img src="media/Thekeys.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.thekeys.ai
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.yfj.social/reggi-app">
    <img src="media/Reggi.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.yfj.social/reggi-app
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://looria.com">
    <img src="media/Looria.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://looria.com
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://resumeworded.com/index.php">
    <img src="media/Resume Worded.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://resumeworded.com/index.php
 - **Pricing**: -
 

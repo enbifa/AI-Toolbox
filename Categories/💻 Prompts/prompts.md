@@ -8,7 +8,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://publicprompts.art">
    <img src="media/Public Prompts.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://publicprompts.art
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://promptbase.com">
    <img src="media/PromptBase.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://promptbase.com
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://huggingface.co/spaces/microsoft/Promptist">
    <img src="media/Promptist.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://huggingface.co/spaces/microsoft/Promptist
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://www.promptbox.ai">
    <img src="media/PromtBox.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.promptbox.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://promptlayer.com">
    <img src="media/PromptLayer.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://promptlayer.com
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://eyeforai.xyz">
    <img src="media/Eye for Al.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://eyeforai.xyz
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://pyttipanna.xyz">
    <img src="media/Pyttipanna.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://pyttipanna.xyz
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://www.jrnylist.com">
    <img src="media/Jrnylist.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.jrnylist.com
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://openart.ai">
    <img src="media/Openart.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://openart.ai
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://prompthero.com">
    <img src="media/PromptHero.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://prompthero.com
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://replicate.com/methexis-inc/img2prompt">
    <img src="media/Img2prompt.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://replicate.com/methexis-inc/img2prompt
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://www.krea.ai">
    <img src="media/Krea.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.krea.ai
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 💻 Prompts tools.
 <a href="https://www.dallelist.com">
    <img src="media/Dallelist.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.dallelist.com
 - **Pricing**: -
 

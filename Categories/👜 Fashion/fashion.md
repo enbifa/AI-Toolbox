@@ -8,7 +8,7 @@ This page lists a collection of 👜 Fashion tools.
 <a href="https://visualhound.com">
    <img src="media/VisualHound.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://visualhound.com
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 👜 Fashion tools.
 <a href="https://botika.io">
    <img src="media/Botika.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://botika.io
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 👜 Fashion tools.
 <a href="https://ca.la">
    <img src="media/Cala.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://ca.la
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 👜 Fashion tools.
 <a href="https://www.fashionadvisorai.com">
    <img src="media/FashionAdvisorAI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.fashionadvisorai.com
 - **Pricing**: -
 

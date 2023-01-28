@@ -8,7 +8,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://echo.win">
    <img src="media/echowin.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://echo.win
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://ebi.ai">
    <img src="media/Ebi.Ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://ebi.ai
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://tiledesk.com">
    <img src="media/Tiledesk.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://tiledesk.com
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://www.regie.ai">
    <img src="media/Regie.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.regie.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://www.adobe.com/br/sensei.html">
    <img src="media/Adobe Sensei.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.adobe.com/br/sensei.html
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://maya.ai">
    <img src="media/Maya.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://maya.ai
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://cohere.io">
    <img src="media/Cohere.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://cohere.io
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://hiverhq.com/harvey-ai-customer-support">
    <img src="media/Harvey.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://hiverhq.com/harvey-ai-customer-support
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://www.typewise.app">
    <img src="media/Typewise.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.typewise.app
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://forethought.ai">
    <img src="media/Forethought.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://forethought.ai
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://www.quickchat.ai">
    <img src="media/Quickchat.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.quickchat.ai
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://vee.ai/en">
    <img src="media/Vee.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://vee.ai/en
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://www.askviable.com">
    <img src="media/viable.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.askviable.com
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://www.puzzlelabs.ai">
    <img src="media/Puzzle.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.puzzlelabs.ai
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://kaizan.ai">
    <img src="media/Kaizan.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://kaizan.ai
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://www.delve.ai">
    <img src="media/Delve.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.delve.ai
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://www.xokind.com">
    <img src="media/Xokind.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.xokind.com
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://kore.ai">
    <img src="media/Kore.ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://kore.ai
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://poly.ai">
    <img src="media/Poly.ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://poly.ai
 - **Pricing**: -
 
@@ -160,7 +160,7 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 <a href="https://www.botdistrikt.com">
    <img src="media/BotDistrikt.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.botdistrikt.com
 - **Pricing**: -
 

@@ -8,7 +8,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://ideasai.com">
    <img src="media/IdeasAI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://ideasai.com
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://www.validatorai.com">
    <img src="media/Validator AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.validatorai.com
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://namelix.com">
    <img src="media/Namelix.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://namelix.com
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://beta.tome.app">
    <img src="media/Tome.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://beta.tome.app
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://www.trustfinta.com">
    <img src="media/Finta.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.trustfinta.com
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://www.paperade.co">
    <img src="media/Paperade.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.paperade.co
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://rationale.jina.ai">
    <img src="media/Rationale.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://rationale.jina.ai
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://durable.co">
    <img src="media/Durable.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://durable.co
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://ideabuddy.com">
    <img src="media/Ideabuddy.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://ideabuddy.com
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://www.broadn.io">
    <img src="media/Broadn.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.broadn.io
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://namewizard.ai">
    <img src="media/Namewizard.ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://namewizard.ai
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 🦄 Startup tools.
 <a href="https://pitchgrade.com">
    <img src="media/Pitchgrade.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://pitchgrade.com
 - **Pricing**: -
 

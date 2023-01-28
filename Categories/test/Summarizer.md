@@ -8,7 +8,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="http://Noty.ai">
    <img src="media/Noty.ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: http://Noty.ai
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://penelope-ai.vercel.app">
    <img src="media/Penelope AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://penelope-ai.vercel.app
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://www.thegist.ai">
    <img src="media/theGist.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.thegist.ai
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="http://Iris.ai">
    <img src="media/Iris.ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: http://Iris.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://explainthis.ai/">
    <img src="media/ExplainThis.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://explainthis.ai/
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://summate.it">
    <img src="media/Summate.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://summate.it
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://summereyes.ai">
    <img src="media/SummerEyes.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://summereyes.ai
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://www.summarize.tech">
    <img src="media/Summarize Tech.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.summarize.tech
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://www.wordtune.com">
    <img src="media/Wordtune.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.wordtune.com
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://www.summari.com">
    <img src="media/Summari.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.summari.com
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://bearly.ai">
    <img src="media/Bearly.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://bearly.ai
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://otter.ai">
    <img src="media/Otter AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://otter.ai
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://www.genei.io">
    <img src="media/Genei.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.genei.io
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="http://Symbl.ai">
    <img src="media/Symbl.ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: http://Symbl.ai
 - **Pricing**: -
 
@@ -120,7 +120,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://www.wordfixerbot.com">
    <img src="media/WordfixerBot.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.wordfixerbot.com
 - **Pricing**: -
 
@@ -128,7 +128,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://www.writelyai.com">
    <img src="media/Writely.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.writelyai.com
 - **Pricing**: -
 
@@ -136,7 +136,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://gptprompter.com">
    <img src="media/GPT-Prompter.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://gptprompter.com
 - **Pricing**: -
 
@@ -144,7 +144,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://www.upword.ai">
    <img src="media/Upword.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.upword.ai
 - **Pricing**: -
 
@@ -152,7 +152,7 @@ This page lists a collection of 📊 Summarizer tools.
 <a href="https://tldrthis.com">
    <img src="media/TLDR this.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://tldrthis.com
 - **Pricing**: -
 

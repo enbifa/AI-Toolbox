@@ -16,71 +16,62 @@ This page lists a collection of 📃 Paraphraser tools.
 <a href="https://penelope-ai.vercel.app">
    <img src="media/Penelope AI.png" width="400" height="300">
 </a>
--
-- **Link**: https://penelope-ai.vercel.app
+ - **Link**: https://penelope-ai.vercel.app
 - **Pricing**: -
 
 ### [WordAI](https://wordai.com)
 <a href="https://wordai.com">
    <img src="media/WordAI.png" width="400" height="300">
 </a>
--
-- **Link**: https://wordai.com
+ - **Link**: https://wordai.com
 - **Pricing**: -
 
 ### [Bearly](https://bearly.ai)
 <a href="https://bearly.ai">
    <img src="media/Bearly.png" width="400" height="300">
 </a>
--
-- **Link**: https://bearly.ai
+ - **Link**: https://bearly.ai
 - **Pricing**: -
 
 ### [Paraphraser](https://paraphrasetool.com)
 <a href="https://paraphrasetool.com">
    <img src="media/Paraphraser.png" width="400" height="300">
 </a>
--
-- **Link**: https://paraphrasetool.com
+ - **Link**: https://paraphrasetool.com
 - **Pricing**: -
 
 ### [WordfixerBot](https://www.wordfixerbot.com)
 <a href="https://www.wordfixerbot.com">
    <img src="media/WordfixerBot.png" width="400" height="300">
 </a>
--
-- **Link**: https://www.wordfixerbot.com
+ - **Link**: https://www.wordfixerbot.com
 - **Pricing**: -
 
 ### [LuciaAI](https://luciaai.com)
 <a href="https://luciaai.com">
    <img src="media/LuciaAI.png" width="400" height="300">
 </a>
--
-- **Link**: https://luciaai.com
+ - **Link**: https://luciaai.com
 - **Pricing**: -
 
 ### [Writely](https://www.writelyai.com)
 <a href="https://www.writelyai.com">
    <img src="media/Writely.png" width="400" height="300">
 </a>
--
-- **Link**: https://www.writelyai.com
+ - **Link**: https://www.writelyai.com
 - **Pricing**: -
 
 ### [Language Tool](https://languagetool.org)
 <a href="https://languagetool.org">
    <img src="media/Language Tool.png" width="400" height="300">
 </a>
--
-- **Link**: https://languagetool.org
+ - **Link**: https://languagetool.org
 - **Pricing**: -
 
 ### [Rephrasely](https://rephrasely.com)
 <a href="https://rephrasely.com">
    <img src="media/Rephrasely.png" width="400" height="300">
 </a>
--
-- **Link**: https://rephrasely.com
+ - **Link**: https://rephrasely.com
 - **Pricing**: -
 

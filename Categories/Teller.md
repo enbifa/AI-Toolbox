@@ -8,7 +8,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://beta.tome.app">
    <img src="media/Tome.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://beta.tome.app
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://www.bedtimestory.ai">
    <img src="media/BedtimeStory AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.bedtimestory.ai
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://www.storiesforkids.ai">
    <img src="media/StoriesForKids.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.storiesforkids.ai
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://onceuponabot.com">
    <img src="media/Once Upon A Bot.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://onceuponabot.com
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://neuralcanvas.io">
    <img src="media/Neural Canvas.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://neuralcanvas.io
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://www.whatonearth.xyz">
    <img src="media/What on Earth?.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.whatonearth.xyz
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://storypath.app">
    <img src="media/Story Path.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://storypath.app
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://www.storywizard.ai">
    <img src="media/StoryWizard.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.storywizard.ai
 - **Pricing**: -
 
@@ -72,7 +72,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://sceneone.app">
    <img src="media/Scene One.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://sceneone.app
 - **Pricing**: -
 
@@ -80,7 +80,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://endlessvn.io">
    <img src="media/EndlessVN.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://endlessvn.io
 - **Pricing**: -
 
@@ -88,7 +88,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://novelai.net">
    <img src="media/NovelAI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://novelai.net
 - **Pricing**: -
 
@@ -96,7 +96,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://artflow.ai">
    <img src="media/Artflow ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://artflow.ai
 - **Pricing**: -
 
@@ -104,7 +104,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://fabled.ai">
    <img src="media/Fabled.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://fabled.ai
 - **Pricing**: -
 
@@ -112,7 +112,7 @@ This page lists a collection of Story Teller tools.
 <a href="https://subtxt.app">
    <img src="media/Subtxt.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://subtxt.app
 - **Pricing**: -
 

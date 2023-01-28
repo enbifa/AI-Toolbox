@@ -8,7 +8,7 @@ This page lists a collection of 📼 Personalized Videos tools.
 <a href="https://vidyo.ai">
    <img src="media/Vidyo.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://vidyo.ai
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 📼 Personalized Videos tools.
 <a href="https://www.trymaverick.com">
    <img src="media/Maverick.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.trymaverick.com
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 📼 Personalized Videos tools.
 <a href="https://www.bhuman.ai/">
    <img src="media/Bhuman.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.bhuman.ai/
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 📼 Personalized Videos tools.
 <a href="https://www.colossyan.com">
    <img src="media/Colossyan.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.colossyan.com
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 📼 Personalized Videos tools.
 <a href="https://windsor.io">
    <img src="media/Windsor.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://windsor.io
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 📼 Personalized Videos tools.
 <a href="https://invideo.io">
    <img src="media/InVideo.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://invideo.io
 - **Pricing**: -
 
@@ -56,7 +56,7 @@ This page lists a collection of 📼 Personalized Videos tools.
 <a href="https://www.rephrase.ai">
    <img src="media/Rephrase.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.rephrase.ai
 - **Pricing**: -
 
@@ -64,7 +64,7 @@ This page lists a collection of 📼 Personalized Videos tools.
 <a href="https://www.tavus.io">
    <img src="media/Tavus.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.tavus.io
 - **Pricing**: -
 

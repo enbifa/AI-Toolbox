@@ -8,7 +8,7 @@ This page lists a collection of 🎁 Gift Ideas tools.
 <a href="https://suggest.gift">
    <img src="media/Suggest Gift.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://suggest.gift
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🎁 Gift Ideas tools.
 <a href="https://www.coolgiftideas.io">
    <img src="media/Cool Gift Ideas.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.coolgiftideas.io
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🎁 Gift Ideas tools.
 <a href="https://www.elfhelp.ai">
    <img src="media/Elf Help.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.elfhelp.ai
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🎁 Gift Ideas tools.
 <a href="https://www.santa.artflow.ai">
    <img src="media/Santa AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.santa.artflow.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🎁 Gift Ideas tools.
 <a href="https://gen.gifts">
    <img src="media/Gifts Genie.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://gen.gifts
 - **Pricing**: -
 
@@ -48,7 +48,7 @@ This page lists a collection of 🎁 Gift Ideas tools.
 <a href="https://giftastic.ai">
    <img src="media/Giftastic.ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://giftastic.ai
 - **Pricing**: -
 

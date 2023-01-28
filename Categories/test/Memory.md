@@ -8,7 +8,7 @@ This page lists a collection of 🧠 Memory tools.
 <a href="https://glasp.co/ai-writing">
    <img src="media/Glasp.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://glasp.co/ai-writing
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🧠 Memory tools.
 <a href="https://www.rewind.ai">
    <img src="media/Rewind AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.rewind.ai
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🧠 Memory tools.
 <a href="https://heyday.xyz">
    <img src="media/Heyday.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://heyday.xyz
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🧠 Memory tools.
 <a href="https://mem.ai">
    <img src="media/Mem.ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://mem.ai
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🧠 Memory tools.
 <a href="https://www.personal.ai">
    <img src="media/Personal.ai.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.personal.ai
 - **Pricing**: -
 

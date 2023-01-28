@@ -8,7 +8,7 @@ This page lists a collection of 🗂️ Spreadsheets tools.
 <a href="https://www.sheetai.app">
    <img src="media/Sheet AI.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.sheetai.app
 - **Pricing**: -
 
@@ -16,7 +16,7 @@ This page lists a collection of 🗂️ Spreadsheets tools.
 <a href="https://www.boloforms.com/sheetgod">
    <img src="media/SheetGod.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.boloforms.com/sheetgod
 - **Pricing**: -
 
@@ -24,7 +24,7 @@ This page lists a collection of 🗂️ Spreadsheets tools.
 <a href="https://sheetplus.ai">
    <img src="media/Sheet+.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://sheetplus.ai
 - **Pricing**: -
 
@@ -32,7 +32,7 @@ This page lists a collection of 🗂️ Spreadsheets tools.
 <a href="https://excelformulabot.com">
    <img src="media/Excel Formula Bot.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://excelformulabot.com
 - **Pricing**: -
 
@@ -40,7 +40,7 @@ This page lists a collection of 🗂️ Spreadsheets tools.
 <a href="https://www.goodlookup.com">
    <img src="media/Goodlookup.png" width="400" height="300">
 </a>
--    
+ 
 - **Link**: https://www.goodlookup.com
 - **Pricing**: -
 
