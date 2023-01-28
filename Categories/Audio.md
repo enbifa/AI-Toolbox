@@ -4,7 +4,7 @@ This page lists a collection of 🎛️ Audio Editing tools.
 
 ## Tools
 
-### [[Krisp](krisp.ai)
+### [Krisp](krisp.ai)
 <a href="krisp.ai">
    <img src="media/Krisp.png" width="400" height="300">
 </a>
@@ -12,7 +12,7 @@ Krisp is an advanced AI-based software that eliminates background noise, voices,
 - **Link**: krisp.ai
 - **Pricing**: Free Plan
 
-### [[Adobe Podcast](https://podcast.adobe.com/)
+### [Adobe Podcast](https://podcast.adobe.com/)
 <a href="https://podcast.adobe.com/">
    <img src="media/Adobe Podcast.png" width="400" height="300">
 </a>
@@ -20,7 +20,7 @@ Adobe Podcast is an AI-powered audio recording and editing tool that can be acce
 - **Link**: https://podcast.adobe.com/
 - **Pricing**: Beta
 
-### [[Beatoven](www.beatoven.ai/)
+### [Beatoven](www.beatoven.ai/)
 <a href="www.beatoven.ai/">
    <img src="media/Beatoven.png" width="400" height="300">
 </a>
@@ -28,7 +28,7 @@ Beatoven.ai is a music generation software that utilizes artificial intelligence
 - **Link**: www.beatoven.ai/
 - **Pricing**: Free Plan
 
-### [[AudioStrip](www.audiostrip.co.uk)
+### [AudioStrip](www.audiostrip.co.uk)
 <a href="www.audiostrip.co.uk">
    <img src="media/AudioStrip.png" width="400" height="300">
 </a>
@@ -36,7 +36,7 @@ AudioStrip is the ultimate online tool for music producers, providing an easy wa
 - **Link**: www.audiostrip.co.uk
 - **Pricing**: Free
 
-### [[Voicemod](www.voicemod.net)
+### [Voicemod](www.voicemod.net)
 <a href="www.voicemod.net">
    <img src="media/Voicemod.png" width="400" height="300">
 </a>
@@ -44,7 +44,7 @@ Voicemod is a free real-time voice changing software that allows you to express 
 - **Link**: www.voicemod.net
 - **Pricing**: Free
 
-### [[Cleanvoice](www.cleanvoice.ai)
+### [Cleanvoice](www.cleanvoice.ai)
 <a href="www.cleanvoice.ai">
    <img src="media/Cleanvoice.png" width="400" height="300">
 </a>
@@ -52,7 +52,7 @@ Cleanvoice is an artificial intelligence tool that helps you improve the quality
 - **Link**: www.cleanvoice.ai
 - **Pricing**: Subscription or Pay as you go
 
-### [[Podcastle](www.podcastle.com)
+### [Podcastle](www.podcastle.com)
 <a href="www.podcastle.com">
    <img src="media/Podcastle.png" width="400" height="300">
 </a>
@@ -60,7 +60,7 @@ Podcastle is the ultimate one-stop shop for broadcast storytelling. It offers a 
 - **Link**: www.podcastle.com
 - **Pricing**: Free plan
 
-### [[Altered](www.altered.ai)
+### [Altered](www.altered.ai)
 <a href="www.altered.ai">
    <img src="media/Altered.png" width="400" height="300">
 </a>

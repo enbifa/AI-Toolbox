@@ -4,7 +4,7 @@ This page lists a collection of 🧑‍⚕️ Healthcare tools.
 
 ## Tools
 
-### [[Whisper AI](https://whisper.ai)
+### [Whisper AI](https://whisper.ai)
 <a href="https://whisper.ai">
    <img src="media/Whisper AI.png" width="400" height="300">
 </a>
@@ -12,7 +12,7 @@ This page lists a collection of 🧑‍⚕️ Healthcare tools.
 - **Link**: https://whisper.ai
 - **Pricing**: -
 
-### [[Cradle](https://cradle.bio)
+### [Cradle](https://cradle.bio)
 <a href="https://cradle.bio">
    <img src="media/Cradle.png" width="400" height="300">
 </a>

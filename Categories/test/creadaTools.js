@@ -15,7 +15,7 @@ const groupedData = data.reduce((acc, item) => {
   Object.keys(groupedData).forEach(category => {
     let fileContent = `# ${category}\n\nThis page lists a collection of ${category} tools.\n\n## Tools\n\n`;
     groupedData[category].forEach(item => {
-      fileContent += `### [[${item.title}](${item.url})\n`;
+      fileContent += `### [${item.title}](${item.url})\n`;
       fileContent += `<a href="${item.url}">\n`;
       fileContent += `   <img src="media/${item.screenshot}" width="400" height="300">\n`;
       fileContent += `</a>\n`;
