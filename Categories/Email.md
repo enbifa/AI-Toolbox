@@ -4,225 +4,225 @@ This page lists a collection of 📧 Email Assistant tools.
 
 ## Tools
 
-### [HoppyCopy](https://www.hoppycopy.co)
+### [[HoppyCopy](https://www.hoppycopy.co)
 <a href="https://www.hoppycopy.co">
-   <img src="HoppyCopy.png" width="400" height="300">
+   <img src="media/HoppyCopy.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.hoppycopy.co
 - **Pricing**: -
 
-### [Rytr](https://rytr.me)
+### [[Rytr](https://rytr.me)
 <a href="https://rytr.me">
-   <img src="Rytr.png" width="400" height="300">
+   <img src="media/Rytr.png" width="400" height="300">
 </a>
 -
 - **Link**: https://rytr.me
 - **Pricing**: -
 
-### [Robin](https://www.hellorobin.ai)
+### [[Robin](https://www.hellorobin.ai)
 <a href="https://www.hellorobin.ai">
-   <img src="Robin.png" width="400" height="300">
+   <img src="media/Robin.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.hellorobin.ai
 - **Pricing**: -
 
-### [ChatGPT Writer](https://chatgptwriter.ai)
+### [[ChatGPT Writer](https://chatgptwriter.ai)
 <a href="https://chatgptwriter.ai">
-   <img src="ChatGPT Writer.png" width="400" height="300">
+   <img src="media/ChatGPT Writer.png" width="400" height="300">
 </a>
 -
 - **Link**: https://chatgptwriter.ai
 - **Pricing**: -
 
-### [Instantly](https://instantly.ai)
+### [[Instantly](https://instantly.ai)
 <a href="https://instantly.ai">
-   <img src="Instantly.png" width="400" height="300">
+   <img src="media/Instantly.png" width="400" height="300">
 </a>
 -
 - **Link**: https://instantly.ai
 - **Pricing**: -
 
-### [Quicklines](https://www.quicklines.ai)
+### [[Quicklines](https://www.quicklines.ai)
 <a href="https://www.quicklines.ai">
-   <img src="Quicklines.png" width="400" height="300">
+   <img src="media/Quicklines.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.quicklines.ai
 - **Pricing**: -
 
-### [Mentioned](https://www.mentioned.ai)
+### [[Mentioned](https://www.mentioned.ai)
 <a href="https://www.mentioned.ai">
-   <img src="Mentioned.png" width="400" height="300">
+   <img src="media/Mentioned.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.mentioned.ai
 - **Pricing**: -
 
-### [PolitePost](https://politepost.net)
+### [[PolitePost](https://politepost.net)
 <a href="https://politepost.net">
-   <img src="PolitePost.png" width="400" height="300">
+   <img src="media/PolitePost.png" width="400" height="300">
 </a>
 -
 - **Link**: https://politepost.net
 - **Pricing**: -
 
-### [Reply.io](https://reply.io/sales-email-assistant)
+### [[Reply.io](https://reply.io/sales-email-assistant)
 <a href="https://reply.io/sales-email-assistant">
-   <img src="Reply.io.png" width="400" height="300">
+   <img src="media/Reply.io.png" width="400" height="300">
 </a>
 -
 - **Link**: https://reply.io/sales-email-assistant
 - **Pricing**: -
 
-### [Ipso AI](https://ipso.ai)
+### [[Ipso AI](https://ipso.ai)
 <a href="https://ipso.ai">
-   <img src="Ipso AI.png" width="400" height="300">
+   <img src="media/Ipso AI.png" width="400" height="300">
 </a>
 -
 - **Link**: https://ipso.ai
 - **Pricing**: -
 
-### [Regie](https://www.regie.ai)
+### [[Regie](https://www.regie.ai)
 <a href="https://www.regie.ai">
-   <img src="Regie.png" width="400" height="300">
+   <img src="media/Regie.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.regie.ai
 - **Pricing**: -
 
-### [ParagraphAI](https://paragraphai.com)
+### [[ParagraphAI](https://paragraphai.com)
 <a href="https://paragraphai.com">
-   <img src="ParagraphAI.png" width="400" height="300">
+   <img src="media/ParagraphAI.png" width="400" height="300">
 </a>
 -
 - **Link**: https://paragraphai.com
 - **Pricing**: -
 
-### [Magicreach](https://www.magicreach.ai)
+### [[Magicreach](https://www.magicreach.ai)
 <a href="https://www.magicreach.ai">
-   <img src="Magicreach.png" width="400" height="300">
+   <img src="media/Magicreach.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.magicreach.ai
 - **Pricing**: -
 
-### [Warmer.ai](https://warmer.ai)
+### [[Warmer.ai](https://warmer.ai)
 <a href="https://warmer.ai">
-   <img src="Warmer.ai.png" width="400" height="300">
+   <img src="media/Warmer.ai.png" width="400" height="300">
 </a>
 -
 - **Link**: https://warmer.ai
 - **Pricing**: -
 
-### [Ortto](https://ortto.com/artificial-intelligence-marketing)
+### [[Ortto](https://ortto.com/artificial-intelligence-marketing)
 <a href="https://ortto.com/artificial-intelligence-marketing">
-   <img src="Ortto.png" width="400" height="300">
+   <img src="media/Ortto.png" width="400" height="300">
 </a>
 -
 - **Link**: https://ortto.com/artificial-intelligence-marketing
 - **Pricing**: -
 
-### [Creatext](https://www.creatext.ai)
+### [[Creatext](https://www.creatext.ai)
 <a href="https://www.creatext.ai">
-   <img src="Creatext.png" width="400" height="300">
+   <img src="media/Creatext.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.creatext.ai
 - **Pricing**: -
 
-### [Lavender](https://www.lavender.ai)
+### [[Lavender](https://www.lavender.ai)
 <a href="https://www.lavender.ai">
-   <img src="Lavender.png" width="400" height="300">
+   <img src="media/Lavender.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.lavender.ai
 - **Pricing**: -
 
-### [SuperReply](https://superreply.co)
+### [[SuperReply](https://superreply.co)
 <a href="https://superreply.co">
-   <img src="SuperReply.png" width="400" height="300">
+   <img src="media/SuperReply.png" width="400" height="300">
 </a>
 -
 - **Link**: https://superreply.co
 - **Pricing**: -
 
-### [DraftLab](https://draftlab.ai)
+### [[DraftLab](https://draftlab.ai)
 <a href="https://draftlab.ai">
-   <img src="DraftLab.png" width="400" height="300">
+   <img src="media/DraftLab.png" width="400" height="300">
 </a>
 -
 - **Link**: https://draftlab.ai
 - **Pricing**: -
 
-### [Smartwriter](https://www.smartwriter.ai)
+### [[Smartwriter](https://www.smartwriter.ai)
 <a href="https://www.smartwriter.ai">
-   <img src="Smartwriter.png" width="400" height="300">
+   <img src="media/Smartwriter.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.smartwriter.ai
 - **Pricing**: -
 
-### [Postaga](https://postaga.com)
+### [[Postaga](https://postaga.com)
 <a href="https://postaga.com">
-   <img src="Postaga.png" width="400" height="300">
+   <img src="media/Postaga.png" width="400" height="300">
 </a>
 -
 - **Link**: https://postaga.com
 - **Pricing**: -
 
-### [GETitOUT](https://getitout.io)
+### [[GETitOUT](https://getitout.io)
 <a href="https://getitout.io">
-   <img src="GETitOUT.png" width="400" height="300">
+   <img src="media/GETitOUT.png" width="400" height="300">
 </a>
 -
 - **Link**: https://getitout.io
 - **Pricing**: -
 
-### [Luna](https://getluna.dev)
+### [[Luna](https://getluna.dev)
 <a href="https://getluna.dev">
-   <img src="Luna.png" width="400" height="300">
+   <img src="media/Luna.png" width="400" height="300">
 </a>
 -
 - **Link**: https://getluna.dev
 - **Pricing**: -
 
-### [Outplayhq](https://outplayhq.com)
+### [[Outplayhq](https://outplayhq.com)
 <a href="https://outplayhq.com">
-   <img src="Outplayhq.png" width="400" height="300">
+   <img src="media/Outplayhq.png" width="400" height="300">
 </a>
 -
 - **Link**: https://outplayhq.com
 - **Pricing**: -
 
-### [Wordhero](https://wordhero.co)
+### [[Wordhero](https://wordhero.co)
 <a href="https://wordhero.co">
-   <img src="Wordhero.png" width="400" height="300">
+   <img src="media/Wordhero.png" width="400" height="300">
 </a>
 -
 - **Link**: https://wordhero.co
 - **Pricing**: -
 
-### [Ellie](https://ellieai.com)
+### [[Ellie](https://ellieai.com)
 <a href="https://ellieai.com">
-   <img src="Ellie.png" width="400" height="300">
+   <img src="media/Ellie.png" width="400" height="300">
 </a>
 -
 - **Link**: https://ellieai.com
 - **Pricing**: -
 
-### [MateAI](https://www.mateai.io)
+### [[MateAI](https://www.mateai.io)
 <a href="https://www.mateai.io">
-   <img src="MateAI.png" width="400" height="300">
+   <img src="media/MateAI.png" width="400" height="300">
 </a>
 -
 - **Link**: https://www.mateai.io
 - **Pricing**: -
 
-### [Pipl.ai](https://pipl.ai)
+### [[Pipl.ai](https://pipl.ai)
 <a href="https://pipl.ai">
-   <img src="Pipl.ai.png" width="400" height="300">
+   <img src="media/Pipl.ai.png" width="400" height="300">
 </a>
 -
 - **Link**: https://pipl.ai
