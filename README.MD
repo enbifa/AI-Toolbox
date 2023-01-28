@@ -63,6 +63,7 @@ This format should be followed for all new tools suggested for the repository, s
 - 🍒 [Social Media Assistant](Categories/socialmediaassistant.md)
 - 🗂️ [Spreadsheets](Categories/spreadsheets.md)
 - 🦄 [Startup](Categories/startup.md)
+- 📖 [Story Teller](Categories/storyteller.md)
 - 📊 [Summarizer](Categories/summarizer.md)
 - ↔️ [Text to Speech](Categories/texttospeech.md)
 - 🎧 [Transcriber](Categories/transcriber.md)
