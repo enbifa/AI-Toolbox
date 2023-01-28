@@ -24,6 +24,7 @@ async function screenshot(idx) {
 
     if (validUrl.isUri(tool.url)) {
       
+    try {
 
     await page.goto(tool.url);
     await page.setViewport({width: 1280, height: 1024});
@@ -46,7 +47,11 @@ async function screenshot(idx) {
     });
     await browser.close();
 
-
+    } catch (error) {
+      console.log(`${tool.title} non funziona`);
+    } finally {
+      await browser.close();
+      }
     } else {
       console.log(`${tool.title} non funziona`);
     }

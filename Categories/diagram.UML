@@ -1,0 +1,71 @@
+@startuml
+
+actor OperatoreHR #blue
+actor Dipendente #green
+database baseDati  #yellow
+
+OperatoreHR -> baseDati : Abilita la possibilità di accettare l'accordo
+baseDati --> Dipendente : Notifica
+
+Dipendente -> baseDati : Visualizza l'accordo
+baseDati --> Dipendente : Visualizzazione dell'accordo
+
+Dipendente --> baseDati : <font color=green><b>Accetta</b>
+baseDati --> OperatoreHR : Notifica di accettazione
+baseDati --> baseDati : Abilita giorni da pianificare
+baseDati --> baseDati : Inserisci in coda per invio al ministero
+
+Dipendente --> baseDati : <font color=red><b>Accetta</b>
+baseDati --> OperatoreHR : Notifica di rifiuto
+baseDati --> baseDati : Nessuna azione eseguita
+
+Dipendente --> baseDati : Non fa nulla
+baseDati --> baseDati : Nessuna azione eseguita
+
+@enduml
+@startuml
+actor OperatoreHR #blue
+actor Dipendente #green
+database baseDati #yellow
+
+usecase "Richiesta adesione Smart Working" as SW
+
+OperatoreHR --> SW : "Abilita la possibilità di accettare l'accordo"
+SW --> Dipendente : Notifica
+
+Dipendente --> SW : "Visualizza l'accordo"
+SW --> Dipendente : "Visualizzazione dell'accordo"
+
+Dipendente -> "Accetta"
+"Accetta" --> SW : "Accetta"
+SW --> OperatoreHR : "Notifica di accettazione"
+SW --> baseDati : "Abilita giorni da pianificare"
+SW --> baseDati : "Inserisci in coda per invio al ministero"
+
+
+@enduml
+
+@startuml
+actor OperatoreHR #blue
+actor Dipendente #green
+actor ResponsabilePersonale #orange
+database baseDati #yellow
+Boundary HRIS 
+Boundary RAIPERME 
+
+
+
+OperatoreHR -right-> HRIS : "Accede"
+OperatoreHR -down-> HRIS : "Parametrizza l'accordo"
+HRIS -right-> Dipendente : "Invia la notifica via mail"
+HRIS -right-> RAIPERME : "Mette in visione l'accordo"
+
+Dipendente -right-> RAIPERME : "Accede al sistema di gestione"
+Dipendente -right-> RAIPERME : "Visualizza l'accordo"
+Dipendente -right-> RAIPERME : "Sottoscrive/rifiuta l'accordo"
+Dipendente -right-> RAIPERME : "Visualizza area personale"
+
+RAIPERME -down-> ResponsabilePersonale : "Notifica della scelta del dipendente"
+OperatoreHR -right-> HRIS : "Visualizza situazione aggiornata"
+OperatoreHR -right-> HRIS : "Visualizza documento sottoscritto"
+@enduml

@@ -1,178 +1,270 @@
 # 🧑‍🤝‍🧑 Avatars
 
-This page lists a collection of Avatars tools.
+This page lists a collection of 🧑‍🤝‍🧑 Avatars tools.
 
 ## Tools
 
-### [Profile Picture AI](https://www.profilepicture.ai/
+### Profile Picture AI]([Profile Picture AI](https://www.profilepicture.ai/)
+<a href="[Profile Picture AI](https://www.profilepicture.ai/">
+   <img src="Profile Picture AI.png" width="400" height="300">
+</a>
 )
+- **Link**: [Profile Picture AI](https://www.profilepicture.ai/
+- **Pricing**: https
+
+### Avatar AI](https://avatarai.me)
+<a href="https://avatarai.me">
+   <img src="Avatar AI.png" width="400" height="300">
+</a>
 -
-- **Link**: https://www.profilepicture.ai/
+- **Link**: https://avatarai.me
 - **Pricing**: -
 
-### [Avatar AI](https://avatarai.me)
--
-- **Link**: https://avatarai.me/
-- **Pricing**: -
-
-### [Lensa](https://play.google.com/store/apps/details?id=com.lensa.app&hl=en_IN&gl=US
+### Lensa]([Lensa](https://play.google.com/store/apps/details?id=com.lensa.app&hl=en_IN&gl=US)
+<a href="[Lensa](https://play.google.com/store/apps/details?id=com.lensa.app&hl=en_IN&gl=US">
+   <img src="Lensa.png" width="400" height="300">
+</a>
 )
+- **Link**: [Lensa](https://play.google.com/store/apps/details?id=com.lensa.app&hl=en_IN&gl=US
+- **Pricing**: https
+
+### Xpression Camera](https://xpressioncamera.com)
+<a href="https://xpressioncamera.com">
+   <img src="Xpression Camera.png" width="400" height="300">
+</a>
 -
-- **Link**: https://play.google.com/store/apps/details
+- **Link**: https://xpressioncamera.com
 - **Pricing**: -
 
-### [Xpression Camera](https://xpressioncamera.com)
+### Reface AI](https://hey.reface.ai)
+<a href="https://hey.reface.ai">
+   <img src="Reface AI.png" width="400" height="300">
+</a>
 -
-- **Link**: https://xpressioncamera.com/
+- **Link**: https://hey.reface.ai
 - **Pricing**: -
 
-### [Reface AI](https://hey.reface.ai)
+### AnimeAI](https://www.animeai.lol)
+<a href="https://www.animeai.lol">
+   <img src="AnimeAI.png" width="400" height="300">
+</a>
 -
-- **Link**: https://hey.reface.ai/
+- **Link**: https://www.animeai.lol
 - **Pricing**: -
 
-### [AnimeAI](https://www.animeai.lol)
+### Avatarify](https://avatarify.art)
+<a href="https://avatarify.art">
+   <img src="Avatarify.png" width="400" height="300">
+</a>
 -
-- **Link**: https://www.animeai.lol/
+- **Link**: https://avatarify.art
 - **Pricing**: -
 
-### [Avatarify](https://avatarify.art)
+### AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite)
+<a href="https://store.steampowered.com/app/1889620/AI_Roguelite">
+   <img src="AI Roguelite.png" width="400" height="300">
+</a>
 -
-- **Link**: https://avatarify.art/
+- **Link**: https://store.steampowered.com/app/1889620/AI_Roguelite
 - **Pricing**: -
 
-### [AI Roguelite](https://store.steampowered.com/app/1889620/AI_Roguelite)
--
-- **Link**: https://store.steampowered.com/app/1889620/AI_Roguelite/
-- **Pricing**: -
-
-### [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream
+### LiveReacting AI]([LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream)
+<a href="[LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream">
+   <img src="LiveReacting AI.png" width="400" height="300">
+</a>
 )
+- **Link**: [LiveReacting AI](https://www.livereacting.com/ai-host-for-live-stream
+- **Pricing**: https
+
+### In3D](https://in3d.io)
+<a href="https://in3d.io">
+   <img src="In3D.png" width="400" height="300">
+</a>
 -
-- **Link**: https://www.livereacting.com/ai-host-for-live-stream
+- **Link**: https://in3d.io
 - **Pricing**: -
 
-### [In3D](https://in3d.io)
+### HairstyleAI](https://www.hairstyleai.com)
+<a href="https://www.hairstyleai.com">
+   <img src="HairstyleAI.png" width="400" height="300">
+</a>
 -
-- **Link**: https://in3d.io/
+- **Link**: https://www.hairstyleai.com
 - **Pricing**: -
 
-### [HairstyleAI](https://www.hairstyleai.com)
+### Inworld](https://www.inworld.ai)
+<a href="https://www.inworld.ai">
+   <img src="Inworld.png" width="400" height="300">
+</a>
 -
-- **Link**: https://www.hairstyleai.com/
+- **Link**: https://www.inworld.ai
 - **Pricing**: -
 
-### [Inworld](https://www.inworld.ai)
--
-- **Link**: https://www.inworld.ai/
-- **Pricing**: -
-
-### [Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721
+### Digirama]([Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721)
+<a href="[Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721">
+   <img src="Digirama.png" width="400" height="300">
+</a>
 )
+- **Link**: [Digirama](https://apps.apple.com/us/app/character-creator-digirama/id6444673721
+- **Pricing**: https
+
+### Unrealme](https://unrealme.io)
+<a href="https://unrealme.io">
+   <img src="Unrealme.png" width="400" height="300">
+</a>
 -
-- **Link**: https://apps.apple.com/us/app/character-creator-digirama/id6444673721
+- **Link**: https://unrealme.io
 - **Pricing**: -
 
-### [Unrealme](https://unrealme.io)
+### PhotoAI](https://photoai.me)
+<a href="https://photoai.me">
+   <img src="PhotoAI.png" width="400" height="300">
+</a>
 -
-- **Link**: https://unrealme.io/
+- **Link**: https://photoai.me
 - **Pricing**: -
 
-### [PhotoAI](https://photoai.me)
+### Character AI](https://beta.character.ai)
+<a href="https://beta.character.ai">
+   <img src="Character AI.png" width="400" height="300">
+</a>
 -
-- **Link**: https://photoai.me/
+- **Link**: https://beta.character.ai
 - **Pricing**: -
 
-### [Character AI](https://beta.character.ai)
+### NeuralStudio](https://neural.cam/studio)
+<a href="https://neural.cam/studio">
+   <img src="NeuralStudio.png" width="400" height="300">
+</a>
 -
-- **Link**: https://beta.character.ai/
+- **Link**: https://neural.cam/studio
 - **Pricing**: -
 
-### [NeuralStudio](https://neural.cam/studio)
--
-- **Link**: https://neural.cam/studio/
-- **Pricing**: -
-
-### [Arti.pics](http://Arti.pics)
+### Arti.pics](http://Arti.pics)
+<a href="http://Arti.pics">
+   <img src="Arti.pics.png" width="400" height="300">
+</a>
 -
 - **Link**: http://Arti.pics
 - **Pricing**: -
 
-### [Theoasis](https://theoasis.com)
+### Theoasis](https://theoasis.com)
+<a href="https://theoasis.com">
+   <img src="Theoasis.png" width="400" height="300">
+</a>
 -
-- **Link**: https://theoasis.com/
+- **Link**: https://theoasis.com
 - **Pricing**: -
 
-### [Gemsouls](https://www.mygemsouls.com)
+### Gemsouls](https://www.mygemsouls.com)
+<a href="https://www.mygemsouls.com">
+   <img src="Gemsouls.png" width="400" height="300">
+</a>
 -
-- **Link**: https://www.mygemsouls.com/
+- **Link**: https://www.mygemsouls.com
 - **Pricing**: -
 
-### [Ready Player Me](https://readyplayer.me)
+### Ready Player Me](https://readyplayer.me)
+<a href="https://readyplayer.me">
+   <img src="Ready Player Me.png" width="400" height="300">
+</a>
 -
-- **Link**: https://readyplayer.me/
+- **Link**: https://readyplayer.me
 - **Pricing**: -
 
-### [PictoDream](https://pictodream.com)
--
-- **Link**: https://pictodream.com/
-- **Pricing**: -
-
-### [Beb.ai](http://Beb.ai)
--
-- **Link**: http://Beb.ai
-- **Pricing**: -
-
-### [AI Time Machine](https://www.myheritage.com/ai-time-machine
-)
--
-- **Link**: https://www.myheritage.com/ai-time-machine
-- **Pricing**: -
-
-### [Hairgen AI](https://www.hairgen.ai)
--
-- **Link**: https://www.hairgen.ai/
-- **Pricing**: -
-
-### [Vana Portrait](https://portrait.vana.com)
--
-- **Link**: https://portrait.vana.com/
-- **Pricing**: -
-
-### [DreamPic.AI](http://DreamPic.AI)
--
-- **Link**: http://DreamPic.AI
-- **Pricing**: -
-
-### [PictoDream](https://pictodream.com)
+### PictoDream](https://pictodream.com)
+<a href="https://pictodream.com">
+   <img src="PictoDream.png" width="400" height="300">
+</a>
 -
 - **Link**: https://pictodream.com
 - **Pricing**: -
 
-### [Beb.ai](http://Beb.ai)
+### Beb.ai](http://Beb.ai)
+<a href="http://Beb.ai">
+   <img src="Beb.ai.png" width="400" height="300">
+</a>
 -
 - **Link**: http://Beb.ai
 - **Pricing**: -
 
-### [AI Time Machine](https://www.myheritage.com/ai-time-machine)
--
-- **Link**: https://www.myheritage.com/ai-time-machine
-- **Pricing**: -
+### AI Time Machine]([AI Time Machine](https://www.myheritage.com/ai-time-machine)
+<a href="[AI Time Machine](https://www.myheritage.com/ai-time-machine">
+   <img src="AI Time Machine.png" width="400" height="300">
+</a>
+)
+- **Link**: [AI Time Machine](https://www.myheritage.com/ai-time-machine
+- **Pricing**: https
 
-### [Hairgen AI](https://www.hairgen.ai)
+### Hairgen AI](https://www.hairgen.ai)
+<a href="https://www.hairgen.ai">
+   <img src="Hairgen AI.png" width="400" height="300">
+</a>
 -
 - **Link**: https://www.hairgen.ai
 - **Pricing**: -
 
-### [Vana Portrait](https://portrait.vana.com)
+### Vana Portrait](https://portrait.vana.com)
+<a href="https://portrait.vana.com">
+   <img src="Vana Portrait.png" width="400" height="300">
+</a>
 -
 - **Link**: https://portrait.vana.com
 - **Pricing**: -
 
-### [DreamPic.AI](http://DreamPic.AI)
+### DreamPic.AI](http://DreamPic.AI)
+<a href="http://DreamPic.AI">
+   <img src="DreamPic.AI.png" width="400" height="300">
+</a>
 -
 - **Link**: http://DreamPic.AI
 - **Pricing**: -
 
+### PictoDream](https://pictodream.com)
+<a href="https://pictodream.com">
+   <img src="PictoDream.png" width="400" height="300">
+</a>
+-
+- **Link**: https://pictodream.com
+- **Pricing**: -
 
-[Back to Index](../README.MD)
+### Beb.ai](http://Beb.ai)
+<a href="http://Beb.ai">
+   <img src="Beb.ai.png" width="400" height="300">
+</a>
+-
+- **Link**: http://Beb.ai
+- **Pricing**: -
+
+### AI Time Machine](https://www.myheritage.com/ai-time-machine)
+<a href="https://www.myheritage.com/ai-time-machine">
+   <img src="AI Time Machine.png" width="400" height="300">
+</a>
+-
+- **Link**: https://www.myheritage.com/ai-time-machine
+- **Pricing**: -
+
+### Hairgen AI](https://www.hairgen.ai)
+<a href="https://www.hairgen.ai">
+   <img src="Hairgen AI.png" width="400" height="300">
+</a>
+-
+- **Link**: https://www.hairgen.ai
+- **Pricing**: -
+
+### Vana Portrait](https://portrait.vana.com)
+<a href="https://portrait.vana.com">
+   <img src="Vana Portrait.png" width="400" height="300">
+</a>
+-
+- **Link**: https://portrait.vana.com
+- **Pricing**: -
+
+### DreamPic.AI](http://DreamPic.AI)
+<a href="http://DreamPic.AI">
+   <img src="DreamPic.AI.png" width="400" height="300">
+</a>
+-
+- **Link**: http://DreamPic.AI
+- **Pricing**: -
+
