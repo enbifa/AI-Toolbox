@@ -38,7 +38,7 @@ Follow this :
 
 
 - 🎭 Art  
-  - [[List]](Categories/🎭%20Art/Art.md)    - [[Json]](Categories/🎭%20Art/json/Art.json)
+  - [[List]](Categories/🎭%20Art/art.md)    - [[Json]](Categories/🎭%20Art/json/art.json)
 - ✍🏽 Copy Writing  
   - [[List]](Categories/✍🏽%20Copy%20Writing/Copywriting.md)     - [[Json]](Categories/✍🏽%20Copy%20Writing/json/Copywriting.json)
 - 📍 3D  
