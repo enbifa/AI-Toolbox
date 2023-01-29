@@ -284,3 +284,5 @@ This page lists a collection of ✍️ General Writing tools.
 - **Link**: https://quasi.market
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/General.json)

@@ -44,3 +44,5 @@ This page lists a collection of 🧠 Memory tools.
 - **Link**: https://www.personal.ai
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Memory.json)

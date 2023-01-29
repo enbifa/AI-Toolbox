@@ -156,3 +156,5 @@ This page lists a collection of 📊 Summarizer tools.
 - **Link**: https://tldrthis.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Summarizer.json)

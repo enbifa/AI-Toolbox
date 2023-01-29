@@ -124,3 +124,5 @@ This page lists a collection of 💼 Human Resources tools.
 - **Link**: https://hireyay.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Human.json)

@@ -36,3 +36,5 @@ This page lists a collection of 🥼 Experiments tools.
 - **Link**: https://alethea.ai
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Experiments.json)

@@ -228,3 +228,5 @@ This page lists a collection of 📧 Email Assistant tools.
 - **Link**: https://pipl.ai
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Email.json)

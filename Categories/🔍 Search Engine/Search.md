@@ -332,3 +332,5 @@ This page lists a collection of 🔍 Search Engine tools.
 - **Link**: Deviant Art
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Search.json)

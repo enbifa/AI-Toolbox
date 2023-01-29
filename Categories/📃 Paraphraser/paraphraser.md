@@ -84,3 +84,5 @@ This page lists a collection of 📃 Paraphraser tools.
 - **Link**: https://rephrasely.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Paraphraser.json)

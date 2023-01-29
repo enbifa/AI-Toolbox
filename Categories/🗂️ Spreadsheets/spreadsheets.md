@@ -44,3 +44,5 @@ This page lists a collection of 🗂️ Spreadsheets tools.
 - **Link**: https://www.goodlookup.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Spreadsheets.json)

@@ -20,3 +20,5 @@ This page lists a collection of 🧑‍⚕️ Healthcare tools.
 - **Link**: https://cradle.bio
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Healthcare.json)

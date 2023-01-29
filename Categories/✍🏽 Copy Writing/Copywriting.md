@@ -244,3 +244,5 @@ This page lists a collection of ✍🏽 Copywriting tools.
  - **Link**: https://bertha.ai
 - **Pricing**: -
 
+[Go back](../README.md) [JSON](json/copywriting.json)
+[Go back](../README.md) [JSON](json/Copywriting.json)

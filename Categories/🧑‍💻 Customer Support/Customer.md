@@ -164,3 +164,5 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 - **Link**: https://www.botdistrikt.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Customer.json)

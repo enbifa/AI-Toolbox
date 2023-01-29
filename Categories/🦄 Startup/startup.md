@@ -100,3 +100,5 @@ This page lists a collection of 🦄 Startup tools.
 - **Link**: https://pitchgrade.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Startup.json)

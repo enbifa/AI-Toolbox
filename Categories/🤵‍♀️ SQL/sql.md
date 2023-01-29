@@ -68,3 +68,5 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 - **Link**: https://codesquire.ai
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/SQL.json)

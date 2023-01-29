@@ -172,3 +172,5 @@ This page lists a collection of 🍒 Social Media Assistant tools.
 - **Link**: https://instasalesai.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Social.json)

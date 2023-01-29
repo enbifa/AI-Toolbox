@@ -100,3 +100,5 @@ This page lists a collection of 🔬 Research tools.
 - **Link**: https://www.scholarcy.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Research.json)

@@ -68,3 +68,5 @@ This page lists a collection of 📼 Personalized Videos tools.
 - **Link**: https://www.tavus.io
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Personalized.json)

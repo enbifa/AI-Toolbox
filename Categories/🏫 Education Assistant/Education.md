@@ -68,3 +68,5 @@ This page lists a collection of 🏫 Education Assistant tools.
 - **Link**: https://quizgecko.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Education.json)

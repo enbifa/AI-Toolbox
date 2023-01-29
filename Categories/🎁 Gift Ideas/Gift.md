@@ -52,3 +52,5 @@ This page lists a collection of 🎁 Gift Ideas tools.
 - **Link**: https://giftastic.ai
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Gift.json)

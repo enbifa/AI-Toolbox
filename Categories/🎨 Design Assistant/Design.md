@@ -236,3 +236,5 @@ This page lists a collection of 🎨 Design Assistant tools.
 - **Link**: Figma
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Design.json)

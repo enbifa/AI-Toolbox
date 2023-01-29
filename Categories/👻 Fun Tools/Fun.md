@@ -260,3 +260,5 @@ This page lists a collection of 👻 Fun Tools tools.
 - **Link**: https://chai.ml
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Fun.json)

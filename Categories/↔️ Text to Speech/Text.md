@@ -188,3 +188,5 @@ This page lists a collection of ↔️ Text to Speech tools.
 - **Link**: http://elevenlabs.io
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Text.json)

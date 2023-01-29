@@ -44,3 +44,5 @@ This page lists a collection of 🏡 Real Estate tools.
 - **Link**: https://getfloorplan.com
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Real.json)

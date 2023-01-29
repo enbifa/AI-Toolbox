@@ -100,3 +100,5 @@ This page lists a collection of 🎧 Transcriber tools.
 - **Link**: https://www.typestudio.co/tool/video-to-text
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Transcriber.json)

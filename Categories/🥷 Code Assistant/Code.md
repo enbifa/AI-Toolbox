@@ -220,3 +220,5 @@ This page lists a collection of 🥷 Code Assistant tools.
 - **Link**: https://codesquire.ai
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Code.json)

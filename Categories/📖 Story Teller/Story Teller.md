@@ -116,3 +116,6 @@ This page lists a collection of Story Teller tools.
 - **Link**: https://subtxt.app
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Story Teller.json)
+[Go back](../README.md) [JSON](json/Teller.json)

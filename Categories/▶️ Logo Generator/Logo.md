@@ -44,3 +44,5 @@ This page lists a collection of ▶️ Logo Generator tools.
 - **Link**: https://brandmark.io/tools
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Logo.json)

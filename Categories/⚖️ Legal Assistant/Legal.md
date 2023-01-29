@@ -60,3 +60,5 @@ This page lists a collection of ⚖️ Legal Assistant tools.
 - **Link**: https://www.spellbook.legal
 - **Pricing**: -
 
+
+[Go back](../README.md) [JSON](json/Legal.json)
