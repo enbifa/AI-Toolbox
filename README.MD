@@ -36,25 +36,22 @@ Follow this :
 
 ## Tools list
 
-
-- 🎭 Art  
-  - [[List]](Categories/🎭%20Art/art.md)    - [[Json]](Categories/🎭%20Art/json/art.json)
-- ✍🏽 Copy Writing  
-  - [[List]](Categories/✍🏽%20Copy%20Writing/Copywriting.md)     - [[Json]](Categories/✍🏽%20Copy%20Writing/json/Copywriting.json)
 - 📍 3D  
   - [[List]](Categories/📍%203D/3d.md)     - [[Json]](Categories/📍%203D/json/3D.json)
-- 🧑‍💻 Customer Support  
-  - [[List]](Categories/🧑‍💻%20Customer%20Support/Customer.md)     - [[Json]](Categories/🧑‍💻%20Customer%20Support/json/Customer.json)
-- 🥷 Code Assistant  
-  - [[List]](Categories/🥷%20Code%20Assistant/Code.md)     - [[Json]](Categories/🥷%20Code%20Assistant/json/Code.json)
-- 🏫 Education Assistant  
-  - [[List]](Categories/🏫%20Education%20Assistant/Education.md)     - [[Json]](Categories/🏫%20Education%20Assistant/json/Education.json)
+- 🎭 Art  
+  - [[List]](Categories/🎭%20Art/art.md)    - [[Json]](Categories/🎭%20Art/json/art.json)
 - 🧑‍🤝‍🧑 Avatars  
   - [[List]](Categories/🧑‍🤝‍🧑%20Avatars/avatars.md)     - [[Json]](Categories/🧑‍🤝‍🧑%20Avatars/json/Avatars.json)
-- 🏫 Education Assistant  
-  - [[List]](Categories/🏫%20Education%20Assistant/Education.md)     - [[Json]](Categories/🏫%20Education%20Assistant/json/Education.json)
 - 🎛️ Audio Editing  
   - [[List]](Categories/🎛️%20Audio%20Editing/Audio.md)     - [[Json]](Categories/🎛️%20Audio%20Editing/json/Audio.json)
+- ✍🏽 Copy Writing  
+  - [[List]](Categories/✍🏽%20Copy%20Writing/Copywriting.md)     - [[Json]](Categories/✍🏽%20Copy%20Writing/json/Copywriting.json)
+- 🥷 Code Assistant  
+  - [[List]](Categories/🥷%20Code%20Assistant/Code.md)     - [[Json]](Categories/🥷%20Code%20Assistant/json/Code.json)
+- 🧑‍💻 Customer Support  
+  - [[List]](Categories/🧑‍💻%20Customer%20Support/Customer.md)     - [[Json]](Categories/🧑‍💻%20Customer%20Support/json/Customer.json)
+- 🏫 Education Assistant  
+  - [[List]](Categories/🏫%20Education%20Assistant/Education.md)     - [[Json]](Categories/🏫%20Education%20Assistant/json/Education.json)
 - 👜 Fashion  
   - [[List]](Categories/👜%20Fashion/Fashion.md)     - [[Json]](Categories/👜%20Fashion/json/fashion.json)
 - 🕹️ Gaming  
