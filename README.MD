@@ -3,7 +3,7 @@
 
 This repository, *currently in development*, collects a comprehensive list of Artificial Intelligence tools divided by category. The goal of this repository is to provide a useful resource for anyone interested in AI and to improve it continuously through community contributions.
 
-
+If you want to read them from a json file you can find it [here](tools.json)
 
 ## Tool Format
 
