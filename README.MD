@@ -42,7 +42,7 @@ Follow this :
 - ✍🏽 Copy Writing  
   - [[List]](Categories/✍🏽%20Copy%20Writing/Copywriting.md)     - [[Json]](Categories/✍🏽%20Copy%20Writing/json/Copywriting.json)
 - 📍 3D  
-  - [[List]](Categories/📍%203D/3D.md)     - [[Json]](Categories/📍%203D/json/3D.json)
+  - [[List]](Categories/📍%203D/3d.md)     - [[Json]](Categories/📍%203D/json/3D.json)
 - 🧑‍💻 Customer Support  
   - [[List]](Categories/🧑‍💻%20Customer%20Support/Customer.md)     - [[Json]](Categories/🧑‍💻%20Customer%20Support/json/Customer.json)
 - 🥷 Code Assistant  
@@ -50,27 +50,27 @@ Follow this :
 - 🏫 Education Assistant  
   - [[List]](Categories/🏫%20Education%20Assistant/Education.md)     - [[Json]](Categories/🏫%20Education%20Assistant/json/Education.json)
 - 🧑‍🤝‍🧑 Avatars  
-  - [[List]](Categories/🧑‍🤝‍🧑%20Avatars/Avatars.md)     - [[Json]](Categories/🧑‍🤝‍🧑%20Avatars/json/Avatars.json)
+  - [[List]](Categories/🧑‍🤝‍🧑%20Avatars/avatars.md)     - [[Json]](Categories/🧑‍🤝‍🧑%20Avatars/json/Avatars.json)
 - 🏫 Education Assistant  
   - [[List]](Categories/🏫%20Education%20Assistant/Education.md)     - [[Json]](Categories/🏫%20Education%20Assistant/json/Education.json)
 - 🎛️ Audio Editing  
   - [[List]](Categories/🎛️%20Audio%20Editing/Audio.md)     - [[Json]](Categories/🎛️%20Audio%20Editing/json/Audio.json)
 - 👜 Fashion  
-  - [[List]](Categories/👜%20Fashion/Fashion.md)     - [[Json]](Categories/👜%20Fashion/json/Fashion.json)
+  - [[List]](Categories/👜%20Fashion/Fashion.md)     - [[Json]](Categories/👜%20Fashion/json/fashion.json)
 - 🕹️ Gaming  
-  - [[List]](Categories/🕹️%20Gaming/Gaming.md)     - [[Json]](Categories/🕹️%20Gaming/json/Gaming.json)
+  - [[List]](Categories/🕹️%20Gaming/gaming.md)     - [[Json]](Categories/🕹️%20Gaming/json/Gaming.json)
 - 📧 Email Assistant  
   - [[List]](Categories/📧%20Email%20Assistant/Email.md)     - [[Json]](Categories/📧%20Email%20Assistant/json/Email.json)
 - ✍️ General Writing  
   - [[List]](Categories/✍️%20General%20Writing/General.md)     - [[Json]](Categories/✍️%20General%20Writing/json/General.json)
 - 🧑‍⚕️ Healthcare  
-  - [[List]](Categories/🧑‍⚕️%20Healthcare/Healthcare.md)     - [[Json]](Categories/🧑‍⚕️%20Healthcare/json/Healthcare.json)
+  - [[List]](Categories/🧑‍⚕️%20Healthcare/healthcare.md)     - [[Json]](Categories/🧑‍⚕️%20Healthcare/json/Healthcare.json)
 - 🎁 Gift Ideas  
   - [[List]](Categories/🎁%20Gift%20Ideas/Gift.md)     - [[Json]](Categories/🎁%20Gift%20Ideas/json/Gift.json)
 - 👻 Fun Tools  
   - [[List]](Categories/👻%20Fun%20Tools/Fun.md)     - [[Json]](Categories/👻%20Fun%20Tools/json/Fun.json)
 - 🥼 Experiments  
-  - [[List]](Categories/🥼%20Experiments/Experiments.md)     - [[Json]](Categories/🥼%20Experiments/json/Experiments.json)
+  - [[List]](Categories/🥼%20Experiments/experiments.md)     - [[Json]](Categories/🥼%20Experiments/json/Experiments.json)
 - 🧑‍💻 Developer Tools  
   - [[List]](Categories/🧑‍💻%20Developer%20Tools/Developer.md)     - [[Json]](Categories/🧑‍💻%20Developer%20Tools/json/Developer.json)
 - 👻 Fun Tools  
@@ -91,8 +91,6 @@ Follow this :
   - [[List]](Categories/📊%20Low-code%20No-code/Low-code.md)     - [[Json]](Categories/📊%20Low-code%20No-code/json/Low-code.json)
 - 🖼️ Image Generator  
   - [[List]](Categories/🖼️%20Image%20Generator/Image.md)     - [[Json]](Categories/🖼️%20Image%20Generator/json/Image.json)
-- 🧑‍💻 Developer Tools  
-  - [[List]](Categories/🧑‍💻%20Developer%20Tools/Developer.md)     - [[Json]](Categories/🧑‍💻%20Developer%20Tools/json/Developer.json)
 - ▶️ Logo Generator  
   - [[List]](Categories/▶️%20Logo%20Generator/Logo.md)     - [[Json]](Categories/▶️%20Logo%20Generator/json/Logo.json)
 - 💻 Prompts  
@@ -116,12 +114,10 @@ Follow this :
 - 📈 Sales  
   - [[List]](Categories/📈%20Sales/Sales.md)     - [[Json]](Categories/📈%20Sales/json/Sales.json)
 - 📖 Story Teller
-  - [[List]](Categories/📖%20Story%20Teller/Teller.md)
-  - [[Json]](Categories/📖%20Story%20Teller/json/Teller.json)
+  - [[List]](Categories/📖%20Story%20Teller/Story%20Teller.md)
+  - [[Json]](Categories/📖%20Story%20Teller/json/Story%20Teller.json)
 - 🤵‍♀️ SQL  
   - [[List]](Categories/🤵‍♀️%20SQL/SQL.md)     - [[Json]](Categories/🤵‍♀️%20SQL/json/SQL.json)
-- 📖 Story Teller  
-  - [[List]](Categories/📖%20Story%20Teller/Teller.md)     - [[Json]](Categories/📖%20Story%20Teller/json/Teller.json)
 - 🔍 Search Engine  
   - [[List]](Categories/🔍%20Search%20Engine/Search.md)     - [[Json]](Categories/🔍%20Search%20Engine/json/Search.json)
 - 🦄 Startup  
