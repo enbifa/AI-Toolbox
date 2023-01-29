@@ -26,13 +26,13 @@ Follow this :
 
 
 ```
-        {
-            "title": "Scenario",
-            "description": "-",
-            "url": "https://www.scenario.gg",
-            "pricing": "-",
-            "category": "🕹️ Gaming"
-        }
+{
+    "title": "Scenario",
+    "description": "-",
+    "url": "https://www.scenario.gg",
+    "pricing": "-",
+    "category": "🕹️ Gaming"
+}
 ```
 
 ## Tools list
