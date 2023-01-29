@@ -37,155 +37,155 @@ Follow this :
 ## Tools list
 
 - 🎭 Art  
-   - [List](Categories/🎭 Art/Art.json.md)  
-   - [Json](Categories/🎭 Art/json/Art.json)
+  - [List](Categories/🎭 Art/Art.json.md)  
+  - [Json](Categories/🎭 Art/json/Art.json)
 - ✍🏽 Copy Writing  
-   - [List](Categories/✍🏽 Copy Writing/Copywriting.json.md)  
-   - [Json](Categories/✍🏽 Copy Writing/json/Copywriting.json)
+  - [List](Categories/✍🏽 Copy Writing/Copywriting.json.md)  
+  - [Json](Categories/✍🏽 Copy Writing/json/Copywriting.json)
 - 📍 3D  
-   - [List](Categories/📍 3D/3D.json.md)  
-   - [Json](Categories/📍 3D/json/3D.json)
+  - [List](Categories/📍 3D/3D.json.md)  
+  - [Json](Categories/📍 3D/json/3D.json)
 - 🧑‍💻 Customer Support  
-   - [List](Categories/🧑‍💻 Customer Support/Customer.json.md)  
-   - [Json](Categories/🧑‍💻 Customer Support/json/Customer.json)
+  - [List](Categories/🧑‍💻 Customer Support/Customer.json.md)  
+  - [Json](Categories/🧑‍💻 Customer Support/json/Customer.json)
 - 🥷 Code Assistant  
-   - [List](Categories/🥷 Code Assistant/Code.json.md)  
-   - [Json](Categories/🥷 Code Assistant/json/Code.json)
+  - [List](Categories/🥷 Code Assistant/Code.json.md)  
+  - [Json](Categories/🥷 Code Assistant/json/Code.json)
 - 🏫 Education Assistant  
-   - [List](Categories/🏫 Education Assistant/Education.json.md)  
-   - [Json](Categories/🏫 Education Assistant/json/Education.json)
+  - [List](Categories/🏫 Education Assistant/Education.json.md)  
+  - [Json](Categories/🏫 Education Assistant/json/Education.json)
 - 🧑‍🤝‍🧑 Avatars  
-   - [List](Categories/🧑‍🤝‍🧑 Avatars/Avatars.json.md)  
-   - [Json](Categories/🧑‍🤝‍🧑 Avatars/json/Avatars.json)
+  - [List](Categories/🧑‍🤝‍🧑 Avatars/Avatars.json.md)  
+  - [Json](Categories/🧑‍🤝‍🧑 Avatars/json/Avatars.json)
 - 🏫 Education Assistant  
-   - [List](Categories/🏫 Education Assistant/Education.json.md)  
-   - [Json](Categories/🏫 Education Assistant/json/Education.json)
+  - [List](Categories/🏫 Education Assistant/Education.json.md)  
+  - [Json](Categories/🏫 Education Assistant/json/Education.json)
 - 🎛️ Audio Editing  
-   - [List](Categories/🎛️ Audio Editing/Audio.json.md)  
-   - [Json](Categories/🎛️ Audio Editing/json/Audio.json)
+  - [List](Categories/🎛️ Audio Editing/Audio.json.md)  
+  - [Json](Categories/🎛️ Audio Editing/json/Audio.json)
 - 👜 Fashion  
-   - [List](Categories/👜 Fashion/Fashion.json.md)  
-   - [Json](Categories/👜 Fashion/json/Fashion.json)
+  - [List](Categories/👜 Fashion/Fashion.json.md)  
+  - [Json](Categories/👜 Fashion/json/Fashion.json)
 - 🕹️ Gaming  
-   - [List](Categories/🕹️ Gaming/Gaming.json.md)  
-   - [Json](Categories/🕹️ Gaming/json/Gaming.json)
+  - [List](Categories/🕹️ Gaming/Gaming.json.md)  
+  - [Json](Categories/🕹️ Gaming/json/Gaming.json)
 - 📧 Email Assistant  
-   - [List](Categories/📧 Email Assistant/Email.json.md)  
-   - [Json](Categories/📧 Email Assistant/json/Email.json)
+  - [List](Categories/📧 Email Assistant/Email.json.md)  
+  - [Json](Categories/📧 Email Assistant/json/Email.json)
 - ✍️ General Writing  
-   - [List](Categories/✍️ General Writing/General.json.md)  
-   - [Json](Categories/✍️ General Writing/json/General.json)
+  - [List](Categories/✍️ General Writing/General.json.md)  
+  - [Json](Categories/✍️ General Writing/json/General.json)
 - 🧑‍⚕️ Healthcare  
-   - [List](Categories/🧑‍⚕️ Healthcare/Healthcare.json.md)  
-   - [Json](Categories/🧑‍⚕️ Healthcare/json/Healthcare.json)
+  - [List](Categories/🧑‍⚕️ Healthcare/Healthcare.json.md)  
+  - [Json](Categories/🧑‍⚕️ Healthcare/json/Healthcare.json)
 - 🎁 Gift Ideas  
-   - [List](Categories/🎁 Gift Ideas/Gift.json.md)  
-   - [Json](Categories/🎁 Gift Ideas/json/Gift.json)
+  - [List](Categories/🎁 Gift Ideas/Gift.json.md)  
+  - [Json](Categories/🎁 Gift Ideas/json/Gift.json)
 - 👻 Fun Tools  
-   - [List](Categories/👻 Fun Tools/Fun.json.md)  
-   - [Json](Categories/👻 Fun Tools/json/Fun.json)
+  - [List](Categories/👻 Fun Tools/Fun.json.md)  
+  - [Json](Categories/👻 Fun Tools/json/Fun.json)
 - 🥼 Experiments  
-   - [List](Categories/🥼 Experiments/Experiments.json.md)  
-   - [Json](Categories/🥼 Experiments/json/Experiments.json)
+  - [List](Categories/🥼 Experiments/Experiments.json.md)  
+  - [Json](Categories/🥼 Experiments/json/Experiments.json)
 - 🧑‍💻 Developer Tools  
-   - [List](Categories/🧑‍💻 Developer Tools/Developer.json.md)  
-   - [Json](Categories/🧑‍💻 Developer Tools/json/Developer.json)
+  - [List](Categories/🧑‍💻 Developer Tools/Developer.json.md)  
+  - [Json](Categories/🧑‍💻 Developer Tools/json/Developer.json)
 - 👻 Fun Tools  
-   - [List](Categories/👻 Fun Tools/Fun.json.md)  
-   - [Json](Categories/👻 Fun Tools/json/Fun.json)
+  - [List](Categories/👻 Fun Tools/Fun.json.md)  
+  - [Json](Categories/👻 Fun Tools/json/Fun.json)
 - 💼 Human Resources  
-   - [List](Categories/💼 Human Resources/Human.json.md)  
-   - [Json](Categories/💼 Human Resources/json/Human.json)
+  - [List](Categories/💼 Human Resources/Human.json.md)  
+  - [Json](Categories/💼 Human Resources/json/Human.json)
 - 🧬 Life Assistant  
-   - [List](Categories/🧬 Life Assistant/Life.json.md)  
-   - [Json](Categories/🧬 Life Assistant/json/Life.json)
+  - [List](Categories/🧬 Life Assistant/Life.json.md)  
+  - [Json](Categories/🧬 Life Assistant/json/Life.json)
 - 🎨 Design Assistant  
-   - [List](Categories/🎨 Design Assistant/Design.json.md)  
-   - [Json](Categories/🎨 Design Assistant/json/Design.json)
+  - [List](Categories/🎨 Design Assistant/Design.json.md)  
+  - [Json](Categories/🎨 Design Assistant/json/Design.json)
 - ⚖️ Legal Assistant  
-   - [List](Categories/⚖️ Legal Assistant/Legal.json.md)  
-   - [Json](Categories/⚖️ Legal Assistant/json/Legal.json)
+  - [List](Categories/⚖️ Legal Assistant/Legal.json.md)  
+  - [Json](Categories/⚖️ Legal Assistant/json/Legal.json)
 - 🧬 Life Assistant  
-   - [List](Categories/🧬 Life Assistant/Life.json.md)  
-   - [Json](Categories/🧬 Life Assistant/json/Life.json)
+  - [List](Categories/🧬 Life Assistant/Life.json.md)  
+  - [Json](Categories/🧬 Life Assistant/json/Life.json)
 - 🧠 Memory  
-   - [List](Categories/🧠 Memory/Memory.json.md)  
-   - [Json](Categories/🧠 Memory/json/Memory.json)
+  - [List](Categories/🧠 Memory/Memory.json.md)  
+  - [Json](Categories/🧠 Memory/json/Memory.json)
 - 📊 Low-code No-code  
-   - [List](Categories/📊 Low-code No-code/Low-code.json.md)  
-   - [Json](Categories/📊 Low-code No-code/json/Low-code.json)
+  - [List](Categories/📊 Low-code No-code/Low-code.json.md)  
+  - [Json](Categories/📊 Low-code No-code/json/Low-code.json)
 - 🖼️ Image Generator  
-   - [List](Categories/🖼️ Image Generator/Image.json.md)  
-   - [Json](Categories/🖼️ Image Generator/json/Image.json)
+  - [List](Categories/🖼️ Image Generator/Image.json.md)  
+  - [Json](Categories/🖼️ Image Generator/json/Image.json)
 - 🧑‍💻 Developer Tools  
-   - [List](Categories/🧑‍💻 Developer Tools/Developer.json.md)  
-   - [Json](Categories/🧑‍💻 Developer Tools/json/Developer.json)
+  - [List](Categories/🧑‍💻 Developer Tools/Developer.json.md)  
+  - [Json](Categories/🧑‍💻 Developer Tools/json/Developer.json)
 - ▶️ Logo Generator  
-   - [List](Categories/▶️ Logo Generator/Logo.json.md)  
-   - [Json](Categories/▶️ Logo Generator/json/Logo.json)
+  - [List](Categories/▶️ Logo Generator/Logo.json.md)  
+  - [Json](Categories/▶️ Logo Generator/json/Logo.json)
 - 💻 Prompts  
-   - [List](Categories/💻 Prompts/Prompts.json.md)  
-   - [Json](Categories/💻 Prompts/json/Prompts.json)
+  - [List](Categories/💻 Prompts/Prompts.json.md)  
+  - [Json](Categories/💻 Prompts/json/Prompts.json)
 - 📼 Personalized Videos  
-   - [List](Categories/📼 Personalized Videos/Personalized.json.md)  
-   - [Json](Categories/📼 Personalized Videos/json/Personalized.json)
+  - [List](Categories/📼 Personalized Videos/Personalized.json.md)  
+  - [Json](Categories/📼 Personalized Videos/json/Personalized.json)
 - 🏡 Real Estate  
-   - [List](Categories/🏡 Real Estate/Real.json.md)  
-   - [Json](Categories/🏡 Real Estate/json/Real.json)
+  - [List](Categories/🏡 Real Estate/Real.json.md)  
+  - [Json](Categories/🏡 Real Estate/json/Real.json)
 - ⌚ Productivity  
-   - [List](Categories/⌚ Productivity/Productivity.json.md)  
-   - [Json](Categories/⌚ Productivity/json/Productivity.json)
+  - [List](Categories/⌚ Productivity/Productivity.json.md)  
+  - [Json](Categories/⌚ Productivity/json/Productivity.json)
 - 🔬 Research  
-   - [List](Categories/🔬 Research/Research.json.md)  
-   - [Json](Categories/🔬 Research/json/Research.json)
+  - [List](Categories/🔬 Research/Research.json.md)  
+  - [Json](Categories/🔬 Research/json/Research.json)
 - 🏡 Real Estate  
-   - [List](Categories/🏡 Real Estate/Real.json.md)  
-   - [Json](Categories/🏡 Real Estate/json/Real.json)
+  - [List](Categories/🏡 Real Estate/Real.json.md)  
+  - [Json](Categories/🏡 Real Estate/json/Real.json)
 - 🎵 Music  
-   - [List](Categories/🎵 Music/Music.json.md)  
-   - [Json](Categories/🎵 Music/json/Music.json)
+  - [List](Categories/🎵 Music/Music.json.md)  
+  - [Json](Categories/🎵 Music/json/Music.json)
 - 🍒 Social Media Assistant  
-   - [List](Categories/🍒 Social Media Assistant/Social.json.md)  
-   - [Json](Categories/🍒 Social Media Assistant/json/Social.json)
+  - [List](Categories/🍒 Social Media Assistant/Social.json.md)  
+  - [Json](Categories/🍒 Social Media Assistant/json/Social.json)
 - 🗂️ Spreadsheets  
-   - [List](Categories/🗂️ Spreadsheets/Spreadsheets.json.md)  
-   - [Json](Categories/🗂️ Spreadsheets/json/Spreadsheets.json)
+  - [List](Categories/🗂️ Spreadsheets/Spreadsheets.json.md)  
+  - [Json](Categories/🗂️ Spreadsheets/json/Spreadsheets.json)
 - 📈 Sales  
-   - [List](Categories/📈 Sales/Sales.json.md)  
-   - [Json](Categories/📈 Sales/json/Sales.json)
-- 📖 Story Teller  
-   - [List](Categories/📖 Story Teller/Teller.json.md)  
-   - [Json](Categories/📖 Story Teller/json/Teller.json)
+  - [List](Categories/📈 Sales/Sales.json.md)  
+  - [Json](Categories/📈 Sales/json/Sales.json)
+- 📖 Story Teller
+  - [List](Categories/📖 Story Teller/Teller.json.md)
+  - [Json](Categories/📖 Story Teller/json/Teller.json)
 - 🤵‍♀️ SQL  
-   - [List](Categories/🤵‍♀️ SQL/SQL.json.md)  
-   - [Json](Categories/🤵‍♀️ SQL/json/SQL.json)
+  - [List](Categories/🤵‍♀️ SQL/SQL.json.md)  
+  - [Json](Categories/🤵‍♀️ SQL/json/SQL.json)
 - 📖 Story Teller  
-   - [List](Categories/📖 Story Teller/Teller.json.md)  
-   - [Json](Categories/📖 Story Teller/json/Teller.json)
+  - [List](Categories/📖 Story Teller/Teller.json.md)  
+  - [Json](Categories/📖 Story Teller/json/Teller.json)
 - 🔍 Search Engine  
-   - [List](Categories/🔍 Search Engine/Search.json.md)  
-   - [Json](Categories/🔍 Search Engine/json/Search.json)
+  - [List](Categories/🔍 Search Engine/Search.json.md)  
+  - [Json](Categories/🔍 Search Engine/json/Search.json)
 - 🦄 Startup  
-   - [List](Categories/🦄 Startup/Startup.json.md)  
-   - [Json](Categories/🦄 Startup/json/Startup.json)
+  - [List](Categories/🦄 Startup/Startup.json.md)  
+  - [Json](Categories/🦄 Startup/json/Startup.json)
 - 🎧 Transcriber  
-   - [List](Categories/🎧 Transcriber/Transcriber.json.md)  
-   - [Json](Categories/🎧 Transcriber/json/Transcriber.json)
+  - [List](Categories/🎧 Transcriber/Transcriber.json.md)  
+  - [Json](Categories/🎧 Transcriber/json/Transcriber.json)
 - 📊 Summarizer  
-   - [List](Categories/📊 Summarizer/Summarizer.json.md)  
-   - [Json](Categories/📊 Summarizer/json/Summarizer.json)
+  - [List](Categories/📊 Summarizer/Summarizer.json.md)  
+  - [Json](Categories/📊 Summarizer/json/Summarizer.json)
 - ↔️ Text to Speech  
-   - [List](Categories/↔️ Text to Speech/Text.json.md)  
-   - [Json](Categories/↔️ Text to Speech/json/Text.json)
+  - [List](Categories/↔️ Text to Speech/Text.json.md)  
+  - [Json](Categories/↔️ Text to Speech/json/Text.json)
 - 🤔 SEO  
-   - [List](Categories/🤔 SEO/SEO.json.md)  
-   - [Json](Categories/🤔 SEO/json/SEO.json)
+  - [List](Categories/🤔 SEO/SEO.json.md)  
+  - [Json](Categories/🤔 SEO/json/SEO.json)
 - 📃 Paraphraser  
-   - [List](Categories/📃 Paraphraser/Paraphraser.json.md)  
-   - [Json](Categories/📃 Paraphraser/json/Paraphraser.json)
+  - [List](Categories/📃 Paraphraser/Paraphraser.json.md)  
+  - [Json](Categories/📃 Paraphraser/json/Paraphraser.json)
 - 📼 Video Generator  
-   - [List](Categories/📼 Video Generator/Video.json.md)  
-   - [Json](Categories/📼 Video Generator/json/Video.json)
+  - [List](Categories/📼 Video Generator/Video.json.md)  
+  - [Json](Categories/📼 Video Generator/json/Video.json)
 
 
 
