@@ -16,6 +16,7 @@ This page lists a collection of 🎭 Art tools.
 <a href="https://creator.nightcafe.studio">
    <img src="media/NightCafe Studio.png" width="400" height="300">
 </a>
+
 Nightcafe Studio is a platform that helps creators and artists make stunning digital content with its drag-and-drop editor and ready-made templates. It provides a wide range of tools for designing and animating graphics, and supports a variety of file formats for export.
 - **Link**: https://creator.nightcafe.studio
 - **Pricing**: -
