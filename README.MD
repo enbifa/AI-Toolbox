@@ -24,7 +24,8 @@ This format should be followed for all new tools suggested for the repository, s
 
 Follow this :
 
-`
+
+```
         {
             "title": "Scenario",
             "description": "-",
@@ -32,7 +33,7 @@ Follow this :
             "pricing": "-",
             "category": "🕹️ Gaming"
         }
-`
+```
 
 ## Tools list
 
