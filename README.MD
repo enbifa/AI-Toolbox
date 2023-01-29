@@ -112,8 +112,7 @@ Follow this :
 - 📈 Sales  
   - [[List]](Categories/📈%20Sales/Sales.md)     - [[Json]](Categories/📈%20Sales/json/Sales.json)
 - 📖 Story Teller
-  - [[List]](Categories/📖%20Story%20Teller/Story%20Teller.md)
-  - [[Json]](Categories/📖%20Story%20Teller/json/Story%20Teller.json)
+  - [[List]](Categories/📖%20Story%20Teller/Story%20Teller.md)     - [[Json]](Categories/📖%20Story%20Teller/json/Story%20Teller.json)
 - 🤵‍♀️ SQL  
   - [[List]](Categories/🤵‍♀️%20SQL/SQL.md)     - [[Json]](Categories/🤵‍♀️%20SQL/json/SQL.json)
 - 🔍 Search Engine  
