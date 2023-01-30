@@ -23,8 +23,8 @@ This page lists a collection of 🤵‍♀️ SQL tools.
 ### [Channel](https://www.usechannel.com)
 <a href="https://www.usechannel.com">
    <img src="media/Channel.png" width="400" height="300">
-</a>
- 
+</a> 
+AI Channel is a tool that allows you to connect to your database and get answers to questions asked in a simple and efficient manner. It operates on artificial intelligence and natural language processing, allowing you to access accurate and reliable information in just a few simple steps. With AI Channel, you can get quick and accurate results without the need to write complex code or perform lengthy manual searches. This makes AI Channel an ideal tool for those seeking quick and reliable solutions for managing their database.
 - **Link**: https://www.usechannel.com
 - **Pricing**: -
 
