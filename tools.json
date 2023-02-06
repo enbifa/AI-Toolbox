@@ -1,23 +1,26 @@
 [
     {
         "title": "Pixela AI",
-        "description": "-",
+        "description": "Pixela AI is an AI tool that generates game textures using machine learning technology. It offers developers a fast and cost-effective solution for creating high-quality game textures. It also offers customization options for unique texture styles. Pixela AI is a powerful and versatile tool for game texture generation.",
         "url": "https://pixela.ai",
-        "pricing": "-",
+        "pricing": "Free",
         "screenshot": "Pixela AI.png",
-        "category": "📍 3D"
+        "category": "📍 3D",
+        "social": {
+            "twitter": "@pixela_ai"
+        }
     },
     {
         "title": "GET3D",
-        "description": "-",
-        "url": "Nvidia",
-        "pricing": "-",
+        "description": "GET3D is a generative model for creating high-quality 3D textured shapes, learned from images. It offers a unique solution for creating 3D shapes with realistic textures and detailed features. GET3D leverages machine learning technology to deliver efficient and accurate results, making it a valuable tool for industries such as gaming, architecture, and product design.",
+        "url": "https://nv-tlabs.github.io/GET3D",
+        "pricing": "Free",
         "screenshot": "GET3D.png",
         "category": "📍 3D"
     },
     {
         "title": "GetFloorPlan",
-        "description": "-",
+        "description": "Getfloorplan Lab is a tool designed to enhance real estate sales. It provides 2D and 3D floor plans and virtual tours, which have been shown to increase sales calls by up to 30% according to its clients. Getfloorplan Lab is an effective solution for real estate professionals looking to boost their sales and stand out in the market. By offering engaging and interactive visual experiences, Getfloorplan Lab helps potential buyers envision and connect with properties.",
         "url": "https://getfloorplan.com",
         "pricing": "-",
         "screenshot": "GetFloorPlan.png",
@@ -25,23 +28,23 @@
     },
     {
         "title": "Texture Lab",
-        "description": "-",
+        "description": "Texture Lab is a tool for creating unique seamless textures for games. It allows users to generate textures from any text, offering an instant solution for adding personalized textures to their games. Texture Lab is user-friendly and offers customization options to produce high-quality textures efficiently and effectively. It is a valuable asset for game developers and artists looking for unique and customized textures for their games.",
         "url": "https://www.texturelab.xyz",
-        "pricing": "-",
+        "pricing": "Free",
         "screenshot": "Texture Lab.png",
         "category": "📍 3D"
     },
     {
         "title": "DeepMotion",
-        "description": "-",
+        "description": "Deepmotion is a powerful AI tool that transforms animation pipelines. It offers markerless motion capture and real-time 3D body tracking solutions through web and mobile platforms, leading the industry in animation technology.",
         "url": "https://www.deepmotion.com",
-        "pricing": "-",
+        "pricing": "Free",
         "screenshot": "DeepMotion.png",
         "category": "📍 3D"
     },
     {
         "title": "Poly",
-        "description": "-",
+        "description": "Poly is an AI-powered tool that enables users to create unlimited 3D design assets quickly. It features customizable, high-resolution, commercially-licensed 3D textures with physical-based rendering maps.",
         "url": "https://withpoly.com",
         "pricing": "-",
         "screenshot": "Poly.png",
@@ -49,7 +52,7 @@
     },
     {
         "title": "Kinetix",
-        "description": "-",
+        "description": "Kinetix is a virtual world platform that allows users to express themselves through custom emotes. The emotes can be used on any avatar and in multiple virtual worlds, providing unique and creative ways to showcase personality.",
         "url": "https://www.kinetix.tech",
         "pricing": "-",
         "screenshot": "Kinetix.png",
@@ -57,23 +60,23 @@
     },
     {
         "title": "Kaedim",
-        "description": "-",
+        "description": "Kaedim is a magical tool that generates custom 3D models in minutes. Say goodbye to spending hours on modeling tools. With Kaedim, users can easily create stunning 3D art with just an image.",
         "url": "https://www.kaedim3d.com",
-        "pricing": "-",
+        "pricing": "599$ mo",
         "screenshot": "Kaedim.png",
         "category": "📍 3D"
     },
     {
         "title": "Mirageml",
-        "description": "-",
+        "description": "MirageML is an AI-powered 3D prototyping tool that transforms the traditional design process. It allows creatives to effortlessly design beautiful environments on a user-friendly 3D canvas. Reimagine 3D prototyping with MirageML.",
         "url": "https://www.mirageml.com",
-        "pricing": "-",
+        "pricing": "Waitlist",
         "screenshot": "Mirageml.png",
         "category": "📍 3D"
     },
     {
         "title": "Leonardo.Ai",
-        "description": "-",
+        "description": "Leonardo.Ai is an AI tool that enables users to create stunning game assets. Meet Leonardo.Ai and revolutionize your game asset creation process.",
         "url": "https://leonardo.ai",
         "pricing": "-",
         "screenshot": "Leonardo.Ai.png",
@@ -81,7 +84,7 @@
     },
     {
         "title": "PrometheanAI",
-        "description": "-",
+        "description": "PrometheanAI is a groundbreaking AI tool that assists artists in building virtual worlds. It takes on mundane tasks and offers creative solutions, allowing artists to focus on what's important. With PrometheanAI, virtual world building is transformed by artificial intelligence that adapts to individual artist's tastes.",
         "url": "https://www.prometheanai.com",
         "pricing": "-",
         "screenshot": "PrometheanAI.png",
@@ -89,7 +92,7 @@
     },
     {
         "title": "Ponzu",
-        "description": "-",
+        "description": "Ponzu is an AI tool that adds flavor to 3D assets by generating textures. Season your 3D assets with Ponzu's AI-generated textures.",
         "url": "https://www.ponzu.gg",
         "pricing": "-",
         "screenshot": "Ponzu.png",
