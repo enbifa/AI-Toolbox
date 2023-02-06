@@ -1,1 +1,166 @@
-{"title":"📍 3D","description":"This page lists a collection of 📍 3D tools.","tools":[{"title":"Pixela AI","description":"-","url":"https://pixela.ai","pricing":"-","screenshot":"Pixela AI.png","category":"📍 3D"},{"title":"GET3D","description":"-","url":"Nvidia","pricing":"-","screenshot":"GET3D.png","category":"📍 3D"},{"title":"GetFloorPlan","description":"-","url":"https://getfloorplan.com","pricing":"-","screenshot":"GetFloorPlan.png","category":"📍 3D"},{"title":"Texture Lab","description":"-","url":"https://www.texturelab.xyz","pricing":"-","screenshot":"Texture Lab.png","category":"📍 3D"},{"title":"DeepMotion","description":"-","url":"https://www.deepmotion.com","pricing":"-","screenshot":"DeepMotion.png","category":"📍 3D"},{"title":"Poly","description":"-","url":"https://withpoly.com","pricing":"-","screenshot":"Poly.png","category":"📍 3D"},{"title":"Kinetix","description":"-","url":"https://www.kinetix.tech","pricing":"-","screenshot":"Kinetix.png","category":"📍 3D"},{"title":"Kaedim","description":"-","url":"https://www.kaedim3d.com","pricing":"-","screenshot":"Kaedim.png","category":"📍 3D"},{"title":"Mirageml","description":"-","url":"https://www.mirageml.com","pricing":"-","screenshot":"Mirageml.png","category":"📍 3D"},{"title":"Leonardo.Ai","description":"-","url":"https://leonardo.ai","pricing":"-","screenshot":"Leonardo.Ai.png","category":"📍 3D"},{"title":"PrometheanAI","description":"-","url":"https://www.prometheanai.com","pricing":"-","screenshot":"PrometheanAI.png","category":"📍 3D"},{"title":"Ponzu","description":"-","url":"https://www.ponzu.gg","pricing":"-","screenshot":"Ponzu.png","category":"📍 3D"},{"title":"The Simulation","description":"-","url":"https://fablesimulation.com","pricing":"-","screenshot":"The Simulation.png","category":"📍 3D"},{"title":"G3DAI {Jedi}","description":"-","url":"https://g3d.ai","pricing":"-","screenshot":"G3DAI {Jedi}.png","category":"📍 3D"},{"title":"Imagine 3D","description":"-","url":"https://captures.lumalabs.ai/imagine","pricing":"-","screenshot":"Imagine 3D.png","category":"📍 3D"},{"title":"Masterpiece Studio","description":"-","url":"https://masterpiecestudio.com","pricing":"-","screenshot":"Masterpiece Studio.png","category":"📍 3D"},{"title":"Plask","description":"-","url":"https://plask.ai","pricing":"-","screenshot":"Plask.png","category":"📍 3D"},{"title":"Luma AI","description":"-","url":"https://lumalabs.ai","pricing":"-","screenshot":"Luma AI.png","category":"📍 3D"},{"title":"CSM","description":"-","url":"https://csm.ai","pricing":"-","screenshot":"CSM.png","category":"📍 3D"},{"title":"Scenario","description":"-","url":"https://www.scenario.gg","pricing":"-","screenshot":"Scenario.png","category":"📍 3D"}]}
+{
+    "title": "📍 3D",
+    "description": "This page lists a collection of 📍 3D tools.",
+    "tools": [
+        {
+            "title": "Pixela AI",
+            "description": "Pixela AI is an AI tool that generates game textures using machine learning technology. It offers developers a fast and cost-effective solution for creating high-quality game textures. It also offers customization options for unique texture styles. Pixela AI is a powerful and versatile tool for game texture generation.",
+            "url": "https://pixela.ai",
+            "pricing": "Free",
+            "screenshot": "Pixela AI.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "GET3D",
+            "description": "GET3D is a generative model for creating high-quality 3D textured shapes, learned from images. It offers a unique solution for creating 3D shapes with realistic textures and detailed features. GET3D leverages machine learning technology to deliver efficient and accurate results, making it a valuable tool for industries such as gaming, architecture, and product design.",
+            "url": "https://nv-tlabs.github.io/GET3D",
+            "pricing": "Free",
+            "screenshot": "GET3D.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "GetFloorPlan",
+            "description": "Getfloorplan Lab is a tool designed to enhance real estate sales. It provides 2D and 3D floor plans and virtual tours, which have been shown to increase sales calls by up to 30% according to its clients. Getfloorplan Lab is an effective solution for real estate professionals looking to boost their sales and stand out in the market. By offering engaging and interactive visual experiences, Getfloorplan Lab helps potential buyers envision and connect with properties.",
+            "url": "https://getfloorplan.com",
+            "pricing": "-",
+            "screenshot": "GetFloorPlan.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Texture Lab",
+            "description": "Texture Lab is a tool for creating unique seamless textures for games. It allows users to generate textures from any text, offering an instant solution for adding personalized textures to their games. Texture Lab is user-friendly and offers customization options to produce high-quality textures efficiently and effectively. It is a valuable asset for game developers and artists looking for unique and customized textures for their games.",
+            "url": "https://www.texturelab.xyz",
+            "pricing": "Free",
+            "screenshot": "Texture Lab.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "DeepMotion",
+            "description": "Deepmotion is a powerful AI tool that transforms animation pipelines. It offers markerless motion capture and real-time 3D body tracking solutions through web and mobile platforms, leading the industry in animation technology.",
+            "url": "https://www.deepmotion.com",
+            "pricing": "Free",
+            "screenshot": "DeepMotion.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Poly",
+            "description": "Poly is an AI-powered tool that enables users to create unlimited 3D design assets quickly. It features customizable, high-resolution, commercially-licensed 3D textures with physical-based rendering maps.",
+            "url": "https://withpoly.com",
+            "pricing": "-",
+            "screenshot": "Poly.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Kinetix",
+            "description": "Kinetix is a virtual world platform that allows users to express themselves through custom emotes. The emotes can be used on any avatar and in multiple virtual worlds, providing unique and creative ways to showcase personality.",
+            "url": "https://www.kinetix.tech",
+            "pricing": "-",
+            "screenshot": "Kinetix.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Kaedim",
+            "description": "Kaedim is a magical tool that generates custom 3D models in minutes. Say goodbye to spending hours on modeling tools. With Kaedim, users can easily create stunning 3D art with just an image.",
+            "url": "https://www.kaedim3d.com",
+            "pricing": "599$ mo",
+            "screenshot": "Kaedim.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Mirageml",
+            "description": "-",
+            "url": "https://www.mirageml.com",
+            "pricing": "-",
+            "screenshot": "Mirageml.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Leonardo.Ai",
+            "description": "-",
+            "url": "https://leonardo.ai",
+            "pricing": "-",
+            "screenshot": "Leonardo.Ai.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "PrometheanAI",
+            "description": "-",
+            "url": "https://www.prometheanai.com",
+            "pricing": "-",
+            "screenshot": "PrometheanAI.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Ponzu",
+            "description": "-",
+            "url": "https://www.ponzu.gg",
+            "pricing": "-",
+            "screenshot": "Ponzu.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "The Simulation",
+            "description": "-",
+            "url": "https://fablesimulation.com",
+            "pricing": "-",
+            "screenshot": "The Simulation.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "G3DAI {Jedi}",
+            "description": "-",
+            "url": "https://g3d.ai",
+            "pricing": "-",
+            "screenshot": "G3DAI {Jedi}.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Imagine 3D",
+            "description": "-",
+            "url": "https://captures.lumalabs.ai/imagine",
+            "pricing": "-",
+            "screenshot": "Imagine 3D.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Masterpiece Studio",
+            "description": "-",
+            "url": "https://masterpiecestudio.com",
+            "pricing": "-",
+            "screenshot": "Masterpiece Studio.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Plask",
+            "description": "-",
+            "url": "https://plask.ai",
+            "pricing": "-",
+            "screenshot": "Plask.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Luma AI",
+            "description": "-",
+            "url": "https://lumalabs.ai",
+            "pricing": "-",
+            "screenshot": "Luma AI.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "CSM",
+            "description": "-",
+            "url": "https://csm.ai",
+            "pricing": "-",
+            "screenshot": "CSM.png",
+            "category": "📍 3D"
+        },
+        {
+            "title": "Scenario",
+            "description": "-",
+            "url": "https://www.scenario.gg",
+            "pricing": "-",
+            "screenshot": "Scenario.png",
+            "category": "📍 3D"
+        }
+    ]
+}
