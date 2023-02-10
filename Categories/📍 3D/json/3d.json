@@ -8,7 +8,10 @@
             "url": "https://pixela.ai",
             "pricing": "Free",
             "screenshot": "Pixela AI.png",
-            "category": "📍 3D"
+            "category": "📍 3D",
+            "social": {
+                "twitter": "@pixela_ai"
+            }
         },
         {
             "title": "GET3D",
@@ -68,15 +71,15 @@
         },
         {
             "title": "Mirageml",
-            "description": "-",
+            "description": "MirageML is an AI-powered 3D prototyping tool that transforms the traditional design process. It allows creatives to effortlessly design beautiful environments on a user-friendly 3D canvas. Reimagine 3D prototyping with MirageML.",
             "url": "https://www.mirageml.com",
-            "pricing": "-",
+            "pricing": "Waitlist",
             "screenshot": "Mirageml.png",
             "category": "📍 3D"
         },
         {
             "title": "Leonardo.Ai",
-            "description": "-",
+            "description": "Leonardo.Ai is an AI tool that enables users to create stunning game assets. Meet Leonardo.Ai and revolutionize your game asset creation process.",
             "url": "https://leonardo.ai",
             "pricing": "-",
             "screenshot": "Leonardo.Ai.png",
@@ -84,7 +87,7 @@
         },
         {
             "title": "PrometheanAI",
-            "description": "-",
+            "description": "PrometheanAI is a groundbreaking AI tool that assists artists in building virtual worlds. It takes on mundane tasks and offers creative solutions, allowing artists to focus on what's important. With PrometheanAI, virtual world building is transformed by artificial intelligence that adapts to individual artist's tastes.",
             "url": "https://www.prometheanai.com",
             "pricing": "-",
             "screenshot": "PrometheanAI.png",
@@ -92,7 +95,7 @@
         },
         {
             "title": "Ponzu",
-            "description": "-",
+            "description": "Ponzu is an AI tool that adds flavor to 3D assets by generating textures. Season your 3D assets with Ponzu's AI-generated textures.",
             "url": "https://www.ponzu.gg",
             "pricing": "-",
             "screenshot": "Ponzu.png",
@@ -100,7 +103,7 @@
         },
         {
             "title": "The Simulation",
-            "description": "-",
+            "description": "The Simulation is a cutting-edge metaverse powered by Artificial Intelligence, designed to change the way we interact with virtual environments. With advanced machine learning, innovative game design, Non-Fungible Tokens (NFTs), and the ERC20 token, $SIM, this new digital world is poised to be a game-changer. Unlike traditional virtual worlds, only AI-powered NFTs will be represented in The Simulation, meaning that human presence will be absent. This creates a unique opportunity for AI entities to interact with each other in a virtual environment, free from human influence. The Simulation is a new frontier in AI development, and will allow developers, researchers, and artists to explore the possibilities of AI-powered virtual environments. The combination of sophisticated technology and the ability to trade AI NFTs opens up a world of potential, and provides a glimpse into the future of virtual worlds. Get ready to experience the next level of artificial intelligence with The Simulation.",
             "url": "https://fablesimulation.com",
             "pricing": "-",
             "screenshot": "The Simulation.png",
@@ -108,7 +111,7 @@
         },
         {
             "title": "G3DAI {Jedi}",
-            "description": "-",
+            "description": "G3DAI is a game development platform that transforms imagination into reality. With its cutting-edge AI technology, game creators can build stunning, unique games in a fraction of the time. G3DAI offers a suite of tools, each one expertly crafted to boost creativity and eliminate manual tasks, allowing game creators to focus on what really matters - creating games that captivate players and bring their visions to life. From dream to reality, G3DAI makes it possible to imagine any game and play it. Get ready to bring your game ideas to life with G3DAI.",
             "url": "https://g3d.ai",
             "pricing": "-",
             "screenshot": "G3DAI {Jedi}.png",
@@ -116,7 +119,7 @@
         },
         {
             "title": "Imagine 3D",
-            "description": "-",
+            "description": "Imagine 3D v1.2 (alpha) is a cutting-edge technology that allows you to create 3D models with just text. It's an early experiment aimed at revolutionizing the way 3D models are created, making it easier and more accessible. With Imagine 3D, you no longer have to be an expert in 3D design to bring your ideas to life. Access to this exciting technology is gradually expanding, and it's available to everyone on the waitlist. Whether you're a game designer, architect, or artist, Imagine 3D v1.2 (alpha) offers endless possibilities to bring your imagination to reality. Get ready to experience the future of 3D design with this innovative tool.",
             "url": "https://captures.lumalabs.ai/imagine",
             "pricing": "-",
             "screenshot": "Imagine 3D.png",
@@ -124,7 +127,7 @@
         },
         {
             "title": "Masterpiece Studio",
-            "description": "-",
+            "description": "Masterpiece Studio is a cutting-edge platform that combines generative AI with ease of use to revolutionize the world of 3D design. With Masterpiece Studio, creating beautiful 3D designs is effortless, as the platform leverages the power of generative AI to take the hassle out of the design process. Whether you're an experienced designer or just starting out, Masterpiece Studio provides an intuitive and user-friendly interface that makes 3D design accessible to everyone. By being the first commercially available 3D generative AI platform, Masterpiece Studio is poised to change the game and make 3D design accessible to anyone with a creative vision.",
             "url": "https://masterpiecestudio.com",
             "pricing": "-",
             "screenshot": "Masterpiece Studio.png",
@@ -132,7 +135,7 @@
         },
         {
             "title": "Plask",
-            "description": "-",
+            "description": "Plask is a cutting-edge technology that revolutionizes the process of extracting motion from video. It eliminates the need for expensive bodysuits or motion capture work, making it effortless and accessible to everyone. With its seamless integration with other tools and support for most professional file formats, including GLB, FBX, BVH, and more, Plask is the ideal choice for both solo artists and team collaborations. With the ability to extract motion just from video, Plask streamlines your workflow and makes it easier than ever to bring your visions to life. Get ready to elevate your game and bring your creations to the next level with Plask.",
             "url": "https://plask.ai",
             "pricing": "-",
             "screenshot": "Plask.png",
@@ -140,7 +143,7 @@
         },
         {
             "title": "Luma AI",
-            "description": "-",
+            "description": "Luma AI is revolutionizing the way we capture and experience memories. With a focus on three dimensional images, Luma is breaking down the barriers of 2D photos and videos. Their mission is to bring about a change in the way we share memories, explore products, and spaces on the internet by bringing them to life in lifelike 3D. By harnessing the power of mixed-reality technology, Luma is propelling us into the future of image capture and preservation. Say goodbye to flat, two dimensional memories and say hello to a new, immersive world with Luma AI.",
             "url": "https://lumalabs.ai",
             "pricing": "-",
             "screenshot": "Luma AI.png",
@@ -148,7 +151,7 @@
         },
         {
             "title": "CSM",
-            "description": "-",
+            "description": "CSM is revolutionizing the world of artificial intelligence. With its advanced technology, you can now create, simulate, and manipulate 3D worlds. Their APIs, interfaces, and open-source software enable the translation of multi-modal inputs into a digital simulator, perfect for AI training and content creation. CSM's mission is to bring artificial intelligence to the next level by providing a systematic path towards AGI, similar to the way a child learns about the world through experience. With CSM, you'll have the power to bring your imagination to life in a digital world.",
             "url": "https://csm.ai",
             "pricing": "-",
             "screenshot": "CSM.png",
@@ -156,7 +159,7 @@
         },
         {
             "title": "Scenario",
-            "description": "-",
+            "description": "Scenario is an AI-powered tool for game asset creation. It offers a solution for generating high-quality and style-consistent assets for game developers. With Scenario, you can create your own AI engine, custom-trained with your own data. This enables you to unlock astonishing creativity and quickly test new game concepts and ideas. With its efficient prompting system, Scenario speeds up your production and generates unique, high-quality content that is cohesive with your art direction. Say goodbye to the time-consuming process of manual asset creation, and welcome to the future of game development with Scenario.",
             "url": "https://www.scenario.gg",
             "pricing": "-",
             "screenshot": "Scenario.png",
