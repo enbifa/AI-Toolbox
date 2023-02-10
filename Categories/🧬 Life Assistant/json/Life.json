@@ -1,1 +1,158 @@
-{"title":"🧬 Life Assistant","description":"This page lists a collection of 🧬 Life Assistant tools.","tools":[{"title":"Apple Books","description":"-","url":"https://www.apple.com/in/apple-books","pricing":"-","screenshot":"Apple Books.png","category":"🧬 Life Assistant"},{"title":"Rewind AI","description":"-","url":"https://www.rewind.ai","pricing":"-","screenshot":"Rewind AI.png","category":"🧬 Life Assistant"},{"title":"Replika","description":"-","url":"https://replika.com","pricing":"-","screenshot":"Replika.png","category":"🧬 Life Assistant"},{"title":"Prodigy AI","description":"-","url":"https://ai.prodi.gg","pricing":"-","screenshot":"Prodigy AI.png","category":"🧬 Life Assistant"},{"title":"Elektrif AI","description":"-","url":"https://www.elektrif.ai","pricing":"-","screenshot":"Elektrif AI.png","category":"🧬 Life Assistant"},{"title":"PlaylistAI","description":"-","url":"https://www.playlistai.app","pricing":"-","screenshot":"PlaylistAI.png","category":"🧬 Life Assistant"},{"title":"Ferret","description":"-","url":"https://www.ferret.ai","pricing":"-","screenshot":"Ferret.png","category":"🧬 Life Assistant"},{"title":"Write Me A Cover Letter","description":"-","url":"https://writemeacoverletter.com","pricing":"-","screenshot":"Write Me A Cover Letter.png","category":"🧬 Life Assistant"},{"title":"Find Your Next Book","description":"-","url":"https://www.findyournextbook.ai","pricing":"-","screenshot":"Find Your Next Book.png","category":"🧬 Life Assistant"},{"title":"TinyWow","description":"-","url":"https://tinywow.com","pricing":"-","screenshot":"TinyWow.png","category":"🧬 Life Assistant"},{"title":"Circle Labs","description":"-","url":"https://circle.isyourshadowyou.com/Home.html","pricing":"-","screenshot":"Circle Labs.png","category":"🧬 Life Assistant"},{"title":"BlackInk","description":"-","url":"https://blackink.ai","pricing":"-","screenshot":"BlackInk.png","category":"🧬 Life Assistant"},{"title":"JustLearn","description":"-","url":"https://www.justlearn.com","pricing":"-","screenshot":"JustLearn.png","category":"🧬 Life Assistant"},{"title":"Caktus","description":"-","url":"https://www.caktus.ai","pricing":"-","screenshot":"Caktus.png","category":"🧬 Life Assistant"},{"title":"AI Trip Planner","description":"-","url":"https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961","pricing":"-","screenshot":"AI Trip Planner.png","category":"🧬 Life Assistant"},{"title":"Thekeys","description":"-","url":"https://www.thekeys.ai","pricing":"-","screenshot":"Thekeys.png","category":"🧬 Life Assistant"},{"title":"Reggi","description":"-","url":"https://www.yfj.social/reggi-app","pricing":"-","screenshot":"Reggi.png","category":"🧬 Life Assistant"},{"title":"Looria","description":"-","url":"https://looria.com","pricing":"-","screenshot":"Looria.png","category":"🧬 Life Assistant"},{"title":"Resume Worded","description":"-","url":"https://resumeworded.com/index.php","pricing":"-","screenshot":"Resume Worded.png","category":"🧬 Life Assistant"}]}
+{
+    "title": "🧬 Life Assistant",
+    "description": "This page lists a collection of 🧬 Life Assistant tools.",
+    "tools": [
+        {
+            "title": "Apple Books",
+            "description": "Apple Books is a comprehensive reading platform that simplifies your reading experience. Discover new books, track your progress, and set your reading goals all in one place. With Apple Books, you can browse through a vast selection of books and easily find the perfect one to fit your interests. The app is accessible on all your Apple devices, making it easy to continue your reading journey no matter where you go. With the ability to track what you’ve read and what you want to read, Apple Books provides a personalized reading experience. Say goodbye to the hassle of keeping track of multiple books and lists, and say hello to a seamless reading experience with Apple Books.",
+            "url": "https://www.apple.com/in/apple-books",
+            "pricing": "-",
+            "screenshot": "Apple Books.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Rewind AI",
+            "description": "Rewind allows you to capture and store all your memories with ease and privacy. Our innovative technology records anything you see, hear or say, making it easily searchable on your Mac. All recordings are stored locally, ensuring complete privacy and avoiding the need for cloud integration or IT support. Our cutting-edge compression techniques allow you to store years of memories, even with a small hard drive, and with Automated Speech Recognition done locally, you can access your memories quickly and easily. Rewind provides a simple solution for preserving your memories, without any compromise on privacy.",
+            "url": "https://www.rewind.ai",
+            "pricing": "-",
+            "screenshot": "Rewind AI.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Replika",
+            "description": "-",
+            "url": "https://replika.com",
+            "pricing": "-",
+            "screenshot": "Replika.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Prodigy AI",
+            "description": "HAL is your personal AI career coach. Whether you're an engineer seeking your next opportunity, HAL can help. Simply share your career goals and receive customized advice straight to your inbox. Say goodbye to generic career advice, and hello to a personalized experience with HAL.",
+            "url": "https://ai.prodi.gg",
+            "pricing": "-",
+            "screenshot": "Prodigy AI.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Elektrif AI",
+            "description": "Meet Elektrif.ai, your personal dating assistant powered by GPT-3. Get better dating results in less time, be your best self, and never run out of things to talk about. Spend more time getting to know someone with Elektrif.ai.",
+            "url": "https://www.elektrif.ai",
+            "pricing": "-",
+            "screenshot": "Elektrif AI.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "PlaylistAI",
+            "description": "Introducing PlaylistAI - the ultimate AI playlist maker for Spotify and Apple Music. Get creative and make playlists from AI prompts, images, videos, or simply your most-played music. Best of all, it's free! Say goodbye to the hassle of manual playlist creation and let AI do the work for you. ",
+            "url": "https://www.playlistai.app",
+            "pricing": "-",
+            "screenshot": "PlaylistAI.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Ferret",
+            "description": "Get Ferret before you regret it. Ferret's AI app, combined with expert information, provides unique relationship intelligence to help you avoid potential risks and identify potential opportunities. Say goodbye to unreliable search engines and social networks.",
+            "url": "https://www.ferret.ai",
+            "pricing": "-",
+            "screenshot": "Ferret.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Write Me A Cover Letter",
+            "description": "-",
+            "url": "https://writemeacoverletter.com",
+            "pricing": "-",
+            "screenshot": "Write Me A Cover Letter.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Find Your Next Book",
+            "description": "-",
+            "url": "https://www.findyournextbook.ai",
+            "pricing": "-",
+            "screenshot": "Find Your Next Book.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "TinyWow",
+            "description": "-",
+            "url": "https://tinywow.com",
+            "pricing": "-",
+            "screenshot": "TinyWow.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Circle Labs",
+            "description": "-",
+            "url": "https://circle.isyourshadowyou.com/Home.html",
+            "pricing": "-",
+            "screenshot": "Circle Labs.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "BlackInk",
+            "description": "-",
+            "url": "https://blackink.ai",
+            "pricing": "-",
+            "screenshot": "BlackInk.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "JustLearn",
+            "description": "-",
+            "url": "https://www.justlearn.com",
+            "pricing": "-",
+            "screenshot": "JustLearn.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Caktus",
+            "description": "-",
+            "url": "https://www.caktus.ai",
+            "pricing": "-",
+            "screenshot": "Caktus.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "AI Trip Planner",
+            "description": "-",
+            "url": "https://www.buildai.space/app/dae3da25-888e-448f-b15c-5a20ca4ca961",
+            "pricing": "-",
+            "screenshot": "AI Trip Planner.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Thekeys",
+            "description": "-",
+            "url": "https://www.thekeys.ai",
+            "pricing": "-",
+            "screenshot": "Thekeys.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Reggi",
+            "description": "-",
+            "url": "https://www.yfj.social/reggi-app",
+            "pricing": "-",
+            "screenshot": "Reggi.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Looria",
+            "description": "-",
+            "url": "https://looria.com",
+            "pricing": "-",
+            "screenshot": "Looria.png",
+            "category": "🧬 Life Assistant"
+        },
+        {
+            "title": "Resume Worded",
+            "description": "-",
+            "url": "https://resumeworded.com/index.php",
+            "pricing": "-",
+            "screenshot": "Resume Worded.png",
+            "category": "🧬 Life Assistant"
+        }
+    ]
+}
