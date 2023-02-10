@@ -8,7 +8,9 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.apple.com/in/apple-books">
    <img src="media/Apple Books.png" width="400" height="300">
 </a>
- 
+
+Apple Books is a comprehensive reading platform that simplifies your reading experience. Discover new books, track your progress, and set your reading goals all in one place. With Apple Books, you can browse through a vast selection of books and easily find the perfect one to fit your interests. The app is accessible on all your Apple devices, making it easy to continue your reading journey no matter where you go. With the ability to track what you’ve read and what you want to read, Apple Books provides a personalized reading experience. Say goodbye to the hassle of keeping track of multiple books and lists, and say hello to a seamless reading experience with Apple Books.
+
 - **Link**: https://www.apple.com/in/apple-books
 - **Pricing**: -
 
@@ -16,7 +18,9 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.rewind.ai">
    <img src="media/Rewind AI.png" width="400" height="300">
 </a>
- 
+
+Rewind allows you to capture and store all your memories with ease and privacy. Our innovative technology records anything you see, hear or say, making it easily searchable on your Mac. All recordings are stored locally, ensuring complete privacy and avoiding the need for cloud integration or IT support. Our cutting-edge compression techniques allow you to store years of memories, even with a small hard drive, and with Automated Speech Recognition done locally, you can access your memories quickly and easily. Rewind provides a simple solution for preserving your memories, without any compromise on privacy.
+
 - **Link**: https://www.rewind.ai
 - **Pricing**: -
 
@@ -32,7 +36,9 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://ai.prodi.gg">
    <img src="media/Prodigy AI.png" width="400" height="300">
 </a>
- 
+
+HAL is your personal AI career coach. Whether you're an engineer seeking your next opportunity, HAL can help. Simply share your career goals and receive customized advice straight to your inbox. Say goodbye to generic career advice, and hello to a personalized experience with HAL. 
+
 - **Link**: https://ai.prodi.gg
 - **Pricing**: -
 
@@ -40,7 +46,9 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.elektrif.ai">
    <img src="media/Elektrif AI.png" width="400" height="300">
 </a>
- 
+
+Meet Elektrif.ai, your personal dating assistant powered by GPT-3. Get better dating results in less time, be your best self, and never run out of things to talk about. Spend more time getting to know someone with Elektrif.ai.
+
 - **Link**: https://www.elektrif.ai
 - **Pricing**: -
 
@@ -48,6 +56,8 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.playlistai.app">
    <img src="media/PlaylistAI.png" width="400" height="300">
 </a>
+
+Introducing PlaylistAI - the ultimate AI playlist maker for Spotify and Apple Music. Get creative and make playlists from AI prompts, images, videos, or simply your most-played music. Best of all, it's free! Say goodbye to the hassle of manual playlist creation and let AI do the work for you.
  
 - **Link**: https://www.playlistai.app
 - **Pricing**: -
@@ -56,7 +66,9 @@ This page lists a collection of 🧬 Life Assistant tools.
 <a href="https://www.ferret.ai">
    <img src="media/Ferret.png" width="400" height="300">
 </a>
- 
+
+Get Ferret before you regret it. Ferret's AI app, combined with expert information, provides unique relationship intelligence to help you avoid potential risks and identify potential opportunities. Say goodbye to unreliable search engines and social networks. 
+
 - **Link**: https://www.ferret.ai
 - **Pricing**: -
 
