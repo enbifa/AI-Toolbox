@@ -164,5 +164,13 @@ This page lists a collection of 🧑‍💻 Customer Support tools.
 - **Link**: https://www.botdistrikt.com
 - **Pricing**: -
 
+### [Simple Phones](https://simplephones.ai)
+<a href="https://simplephones.ai">
+   <img src="media/SimplePhones.png" width="400" height="300">
+</a>
+ 
+- **Link**: https://simplephones.ai
+- **Pricing**: 19¢/min
+
 
 [Go back](../README.md) [JSON](json/Customer.json)
