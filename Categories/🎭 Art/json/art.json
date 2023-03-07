@@ -3,6 +3,14 @@
     "description": "This page lists a collection of 🎭 Art tools.",
     "tools": [
         {
+            "title": "Leonardo.ai",
+            "description": "-",
+            "url": "https://leonardo.ai/",
+            "pricing": "-",
+            "screenshot": "Leonardoai.png",
+            "category": "🎭 Art"
+        },
+        {
             "title": "Midjourney",
             "description": "-",
             "url": "https://www.midjourney.com/home",
