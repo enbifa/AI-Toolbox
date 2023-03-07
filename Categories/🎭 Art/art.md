@@ -5,7 +5,7 @@ This page lists a collection of 🎭 Art tools.
 ## Tools
 
 ### [Leonardo.ai](https://leonardo.ai/)
-[<img width="896" alt="image" src="https://user-images.githubusercontent.com/40363835/223418406-444cf145-9553-4331-a721-b673729b2b74.png">](https://leonardo.ai/)
+[<img width="400" height="300" alt="image" src="https://user-images.githubusercontent.com/40363835/223418827-d3bbd80c-b4ce-4b2d-be39-3b79e40769d3.png">](https://leonardo.ai/)
 - **Link**: https://leonardo.ai/
 
 ### [Midjourney](https://www.midjourney.com/home)
