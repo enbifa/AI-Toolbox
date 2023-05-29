@@ -3,6 +3,10 @@
 This page lists a collection of 🏫 Education Assistant tools.
 
 ## Tools
+### [Wilco Sierra](https://trywilco.com/sierra)
+<a href="https://trywilco.com/sierra">
+   <img src="media/WilcoSierra.png" width="400" height="300">
+</a>
 
 ### [ELI5](https://explainlikeimfive.io)
 <a href="https://explainlikeimfive.io">
