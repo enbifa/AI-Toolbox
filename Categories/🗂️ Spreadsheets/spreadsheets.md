@@ -44,5 +44,13 @@ This page lists a collection of 🗂️ Spreadsheets tools.
 - **Link**: https://www.goodlookup.com
 - **Pricing**: -
 
+### [GPT for Sheets](https://docgpt.ai/gpt-for-sheets)
+<a href="https://docgpt.ai/gpt-for-sheets">
+   <img src="https://docgpt.ai/images/logo.png" width="300" height="300">
+</a>
+ 
+- **Link**: https://docgpt.ai/gpt-for-sheets
+- **Pricing**: Free trial
+
 
 [Go back](../README.md) [JSON](json/Spreadsheets.json)
